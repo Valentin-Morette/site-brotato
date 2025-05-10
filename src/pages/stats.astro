@@ -15,7 +15,7 @@ import SearchBar from '../components/SearchBar.astro';
         <div class="bt-card name-item" data-name={stat.name}>
             <div class="flex justify-center stats-center">
                 <h1 class="text-center font-bold ">{stat.name}</h2>
-                <img src={decodeURIComponent(`/${stat.imagePath}`)} width="40" alt={stat.name} />
+                <img src={decodeURIComponent(`/site-brotato/${stat.imagePath}`)} width="40" alt={stat.name} />
             </div>
             <div class="bt-card-description">
                 {stat.effects
