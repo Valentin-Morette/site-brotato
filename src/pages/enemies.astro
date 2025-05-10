@@ -17,7 +17,7 @@ import SearchBar from '../components/SearchBar.astro';
 				<p class="bt-card-description">{enemy.behavior ? enemy.behavior : 'No description available for this enemy.'}</p>
 				<div class="flex items-center bt-card-content">
 					<div class="flex justify-center items-center w-full mt-2 mb-4">
-						<img src={`/${enemy.imagePath}`} width="100" alt={enemy.name} />
+						<img src={`/site-brotato/${enemy.imagePath}`} width="100" alt={enemy.name} />
 					</div>
 					<div class="statGrid w-full">
 						<span>❤️ Health</span><span>{enemy.health} (+{enemy.hpPerWave})</span>

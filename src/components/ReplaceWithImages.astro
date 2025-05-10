@@ -18,7 +18,7 @@ const parts = texte.split(/{(.*?)}/g);
 {parts.map((part, index) => {
   // Si c'est une clé entre accolades, on crée une balise <img>
   if (index % 2 === 1) {
-    const imagePath = `/assets/img/stats/60px-${part}.png`;
+    const imagePath = `/site-brotato/assets/img/stats/60px-${part}.png`;
     return <img class="imgStats" src={imagePath} alt={part} width="20"/>;
   }
   // Sinon, c'est du texte, on retourne simplement le texte

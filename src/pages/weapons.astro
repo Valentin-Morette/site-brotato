@@ -17,7 +17,7 @@ import SearchBar from '../components/SearchBar.astro';
       <div class="bt-card name-item" data-name={weapon.name}>
         <div class="flex justify-center items-center mb-4">
           <h1 class="text-center font-bold">{weapon.name}</h1>
-          <img src={`/${weapon.imagePath}`} width="40" alt={weapon.name} />
+          <img src={`/site-brotato/${weapon.imagePath}`} width="40" alt={weapon.name} />
         </div>
         <p class="text-center mb-2">{weapon.class}</p>
         <WeaponStatSection color="white" weapon={weapon} />
