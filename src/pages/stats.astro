@@ -1,18 +1,20 @@
 ---
 import BaseLayout from '../layouts/Layout.astro';
 import stats from '../../public/assets/jsons/stats.json';
+import SearchBar from '../components/SearchBar.astro';
 ---
 
 <BaseLayout title="Stats">
   <section class="section-header">
     <h1>Stats</h1>
     <p>All stats you can find in Brotato.</p>
+    <SearchBar placeholder="Search for a stat..." />
   </section>
   <div class="bt-card-list">
     {stats.map((stat) => (
-        <div class="bt-card">
+        <div class="bt-card name-item" data-name={stat.name}>
             <div class="flex justify-center stats-center">
-                <h1 class="text-center font-bold">{stat.name}</h2>
+                <h1 class="text-center font-bold ">{stat.name}</h2>
                 <img src={decodeURIComponent(`/${stat.imagePath}`)} width="40" alt={stat.name} />
             </div>
             <div class="bt-card-description">

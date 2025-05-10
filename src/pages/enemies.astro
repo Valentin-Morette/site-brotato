@@ -1,23 +1,25 @@
 ---
 import BaseLayout from '../layouts/Layout.astro';
 import enemies from '../../public/assets/jsons/enemies.json';
+import SearchBar from '../components/SearchBar.astro';
 ---
 
 <BaseLayout title="Enemies">
 	<section class="section-header">
 		<h1>Enemies</h1>
 		<p>Discover all enemy types in Brotato and their stats.</p>
+		<SearchBar placeholder="Search for an enemy..." />
 	  </section>
 	<div class="bt-card-list">
 		{enemies.map((enemy) => (
-			<div class="bt-card">
+			<div class="bt-card name-item" data-name={enemy.name}>
 				<h1 class="text-center font-bold">{enemy.name}</h2>
 				<p class="bt-card-description">{enemy.behavior ? enemy.behavior : 'No description available for this enemy.'}</p>
 				<div class="flex items-center bt-card-content">
-					<div class="flex justify-center items-center">
+					<div class="flex justify-center items-center w-full mt-2 mb-2">
 						<img src={`/${enemy.imagePath}`} width="100" alt={enemy.name} />
 					</div>
-					<div class="statGrid">
+					<div class="statGrid w-full">
 						<span>❤️ Health</span><span>{enemy.health} (+{enemy.hpPerWave})</span>
 						<span>💢 Damage</span><span>{enemy.damage} (+{enemy.damagePerWave})</span>
 						<span>🛡️ Armor</span><span>{enemy.armor ?? 0} (+{enemy.armorPerWave ?? 0})</span>

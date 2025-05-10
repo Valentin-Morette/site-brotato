@@ -1,16 +1,18 @@
 ---
 import BaseLayout from '../layouts/Layout.astro';
 import characters from '../../public/assets/jsons/characters.json';
+import SearchBar from '../components/SearchBar.astro';
 ---
 
 <BaseLayout title="Characters">
 <section class="section-header">
     <h1>Characters</h1>
     <p>Explore the playable Brotato characters.</p>
+    <SearchBar placeholder="Search for a character..." />
 </section>
 <div class="bt-card-list">
     {characters.map((character) => (
-        <div class="bt-card">
+        <div class="bt-card name-item" data-name={character.name}>
             <div class="flex justify-center items-center">
                 <h1 class="text-center font-bold">{character.name}</h2>
                 <img src={`/${character.imagePath}`} width="40" alt={character.name} />

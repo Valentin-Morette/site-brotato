@@ -1,16 +1,18 @@
 ---
 import BaseLayout from '../layouts/Layout.astro';
 import items from '../../public/assets/jsons/items.json';
+import SearchBar from '../components/SearchBar.astro';
 ---
 
 <BaseLayout title="Items">
   <section class="section-header">
     <h1>Items</h1>
     <p>All items you can find in Brotato.</p>
+    <SearchBar placeholder="Search for an item..." />
   </section>
   <div class="bt-card-list">
     {items.map((item) => (
-        <div class="bt-card">
+        <div class="bt-card name-item" data-name={item.name}>
             <div class="flex justify-center items-center">
                 <h1 class="text-center font-bold">{item.name}</h2>
                 <img src={decodeURIComponent(`/${item.imagePath}`)} width="40" alt={item.name} />
