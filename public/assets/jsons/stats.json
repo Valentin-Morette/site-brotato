@@ -1,0 +1,121 @@
+[
+	{
+		"name": "Max HP",
+		"effects": "Amount of damage you can take before dying",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/3b/Max_HP.png/60px-Max_HP.png",
+		"imagePath": "assets/img/stats/60px-Max_HP.png"
+	},
+	{
+		"name": "HP Regeneration",
+		"effects": "Passive healing that restores 1 HP per n seconds, where the healing interval n becomes shorter with increasing HP Regeneration.\n\nThe first point of HP regeneration gives 0.20 HP/s and all further points increase it by 0.089 HP/s(details)",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/8d/HP_Regeneration.png/60px-HP_Regeneration.png",
+		"imagePath": "assets/img/stats/60px-HP_Regeneration.png"
+	},
+	{
+		"name": "Life Steal",
+		"effects": "Your attacks have a x% chance to heal you for 1HP.\n\nThe character's Life Steal chance is added to each weapon individually.",
+		"limit": "Can only trigger once per 0.1 second for a maximum of 10HP/second",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b5/Life_Steal.png/60px-Life_Steal.png",
+		"imagePath": "assets/img/stats/60px-Life_Steal.png"
+	},
+	{
+		"name": "Damage",
+		"effects": "Increases all damage dealt by 1% per point in Damage.\n\nDoes not affect Engineering structures.",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/6a/Damage.png/60px-Damage.png",
+		"imagePath": "assets/img/stats/60px-Damage.png"
+	},
+	{
+		"name": "Melee Damage",
+		"effects": "Modifies the base attack damage of weapons, if their damage scales with Melee Damage.\n\nSome items deal damage based on this stat.",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/01/Melee_Damage.png/60px-Melee_Damage.png",
+		"imagePath": "assets/img/stats/60px-Melee_Damage.png"
+	},
+	{
+		"name": "Ranged Damage",
+		"effects": "Modifies the base attack damage of weapons, if their damage scales with Ranged Damage.\n\nSome items deal damage based on this stat.",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/cb/Ranged_Damage.png/60px-Ranged_Damage.png",
+		"imagePath": "assets/img/stats/60px-Ranged_Damage.png"
+	},
+	{
+		"name": "Elemental Damage",
+		"effects": "Modifies the base attack damage of weapons, if their damage scales with Elemental Damage.\n\nSome items deal damage based on this stat.",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/82/Elemental_Damage.png/60px-Elemental_Damage.png",
+		"imagePath": "assets/img/stats/60px-Elemental_Damage.png"
+	},
+	{
+		"name": "Attack Speed",
+		"effects": "You attack x% faster. Also applies to Ranged Weapons but not Structures",
+		"limit": "Diminishing Returns at higher values, can't attack faster than 12 times per second, slower for melee weapons.",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/6e/Attack_Speed.png/60px-Attack_Speed.png",
+		"imagePath": "assets/img/stats/60px-Attack_Speed.png"
+	},
+	{
+		"name": "Crit Chance",
+		"effects": "Your weapons have an x increased chance to deal a critical hit.",
+		"limit": "Maximum 100% chance to do critical hits on a hit.",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/41/Crit_Chance.png/60px-Crit_Chance.png",
+		"imagePath": "assets/img/stats/60px-Crit_Chance.png"
+	},
+	{
+		"name": "Engineering",
+		"effects": "Increases the power of your structures. The other stats don't affect structures but specials do (piercing, bouncing, explosion etc.)",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/28/Engineering_Stat.png/60px-Engineering_Stat.png",
+		"imagePath": "assets/img/stats/60px-Engineering_Stat.png"
+	},
+	{
+		"name": "Range",
+		"effects": "The max range of your weapons is increased by x. A higher range also increases the cooldown of melee weapons.(longer travel distance)",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/21/Range_Stat.png/60px-Range_Stat.png",
+		"imagePath": "assets/img/stats/60px-Range_Stat.png"
+	},
+	{
+		"name": "Armor",
+		"effects": "You reduce incoming damage by x%. Each point of armor means it takes 6.66% more damage to kill you.",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/06/Armor.png/60px-Armor.png",
+		"imagePath": "assets/img/stats/60px-Armor.png"
+	},
+	{
+		"name": "Dodge",
+		"effects": "You have a x% chance to dodge attacks.",
+		"limit": "60% (70% with Cryptid, 90% with Ghost)",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/72/Dodge_Stat.png/60px-Dodge_Stat.png",
+		"imagePath": "assets/img/stats/60px-Dodge_Stat.png"
+	},
+	{
+		"name": "Speed",
+		"effects": "You move x% faster.",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e0/Speed_Stat.png/60px-Speed_Stat.png",
+		"imagePath": "assets/img/stats/60px-Speed_Stat.png"
+	},
+	{
+		"name": "Luck",
+		"effects": "You have an x% more chance of finding items or consumables when you kill enemies. Also increases the rarity of the items in the shop and level upgrades.",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f0/Luck.png/60px-Luck.png",
+		"imagePath": "assets/img/stats/60px-Luck.png"
+	},
+	{
+		"name": "Harvesting",
+		"effects": "You earn x materials and XP at the end of a wave. Increased by 5% every time it activates. (Rounded up)",
+		"limit": "No limit",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/bb/Harvesting.png/60px-Harvesting.png",
+		"imagePath": "assets/img/stats/60px-Harvesting.png"
+	},
+	{
+		"name": "Curse",
+		"effects": "Gives enemies a chance to spawn cursed with a purple outline. Cursed enemies have +25% Damage, +15% Speed, and +150% HP +2% per Curse Stat additional HP. They also drop 33% additional Materials. Causes items and weapons in the Shop to have a chance to spawn enhanced with a curse buff, increasing their stats significantly and decreasing their downsides.",
+		"limit": "Diminishing Returns on chance to spawn enemies and items. Can't go above 50% Chance to spawn cursed enemies, 15% to spawn cursed items. Cursed HP scaling maxes out at 300 Curse.",
+		"imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/85/Curse.png/60px-Curse.png",
+		"imagePath": "assets/img/stats/60px-Curse.png"
+	}
+]

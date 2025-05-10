@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../layouts/Layout.astro';
+import characters from '../../public/assets/jsons/characters.json';
+---
+
+<BaseLayout title="Characters">
+<section class="section-header">
+    <h1>Characters</h1>
+    <p>Explore the playable Brotato characters.</p>
+</section>
+<div class="bt-card-list">
+    {characters.map((character) => (
+        <div class="bt-card">
+            <div class="flex justify-center items-center">
+                <h1 class="text-center font-bold">{character.name}</h2>
+                <img src={`/${character.imagePath}`} width="40" alt={character.name} />
+            </div>
+            <div class="bt-card-description">
+                {character.behavior
+                    ? character.behavior.split('\n').map(line => <p>{line}</p>)
+                    : <p>No description available.</p>}
+            </div>
+
+        </div>
+    ))}
+</div>
+</BaseLayout>

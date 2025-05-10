@@ -1,0 +1,1346 @@
+[
+  {
+    "name": "Acid",
+    "effects": "+8 Max HP\n-2 % Dodge\n-2 Knockback",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/18/Acid.png/60px-Acid.png",
+    "imagePath": "assets/img/items/60px-Acid.png"
+  },
+  {
+    "name": "Adrenaline",
+    "effects": "+5 % Dodge\n50% chance to heal 5 HP when dodging an attack",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e3/Adrenaline.png/60px-Adrenaline.png",
+    "imagePath": "assets/img/items/60px-Adrenaline.png"
+  },
+  {
+    "name": "Alien Baby",
+    "effects": "+15 Max HP\n+10 % Enemy health",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/ea/Alien_Baby.png/60px-Alien_Baby.png",
+    "imagePath": "assets/img/items/60px-Alien_Baby.png"
+  },
+  {
+    "name": "Alien Eyes",
+    "effects": "Shoots 6 alien eyes around you every 3 seconds dealing 6 (+50%) damage each",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/56/Alien_Eyes.png/60px-Alien_Eyes.png",
+    "imagePath": "assets/img/items/60px-Alien_Eyes.png"
+  },
+  {
+    "name": "Alien Magic",
+    "effects": "+8 Max HP\n+3 HP Regeneration\n-8 Luck",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/67/Alien_Magic.png/60px-Alien_Magic.png",
+    "imagePath": "assets/img/items/60px-Alien_Magic.png"
+  },
+  {
+    "name": "Alien Tongue",
+    "effects": "+30% pickup range\n+1 Knockback",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a7/Alien_Tongue.png/60px-Alien_Tongue.png",
+    "imagePath": "assets/img/items/60px-Alien_Tongue.png"
+  },
+  {
+    "name": "Alien Worm",
+    "effects": "+3 Max HP\n+2 HP Regeneration\n-1 HP recovered from consumables",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/40/Alien_Worm.png/60px-Alien_Worm.png",
+    "imagePath": "assets/img/items/60px-Alien_Worm.png"
+  },
+  {
+    "name": "Alloy",
+    "effects": "+3 Melee Damage\n+3 Ranged Damage\n+3 Elemental Damage\n+3 Engineering\n+5 % Crit Chance\n-6 % Dodge",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/9a/Alloy.png/60px-Alloy.png",
+    "imagePath": "assets/img/items/60px-Alloy.png"
+  },
+  {
+    "name": "Anvil",
+    "effects": "A random weapon is upgraded when entering a shop. If you have no weapon to upgrade, you gain +2 Armor instead.",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/d/dd/Anvil.png/60px-Anvil.png",
+    "imagePath": "assets/img/items/60px-Anvil.png"
+  },
+  {
+    "name": "Ashes(DLC)",
+    "effects": "+20 % Damage\n+20 % Attack Speed\n+100 Range\n-1 Armor at the end of a wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f9/Ashes.png/60px-Ashes.png",
+    "imagePath": "assets/img/items/60px-Ashes.png"
+  },
+  {
+    "name": "Axolotl(DLC)",
+    "effects": "Your highest (Max HP) and lowest (Max HP) positive primary stats are swapped when you get this item",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/91/Axolotl.png/60px-Axolotl.png",
+    "imagePath": "assets/img/items/60px-Axolotl.png"
+  },
+  {
+    "name": "Baby Elephant",
+    "effects": "25% chance to deal 1 (25%) damage to a random enemy when you pick up a material",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b4/Baby_Elephant.png/60px-Baby_Elephant.png",
+    "imagePath": "assets/img/items/60px-Baby_Elephant.png"
+  },
+  {
+    "name": "Baby Gecko",
+    "effects": "+10 Range\n+25% chance to instantly attract a material when it’s dropped",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/3b/Baby_Gecko.png/60px-Baby_Gecko.png",
+    "imagePath": "assets/img/items/60px-Baby_Gecko.png"
+  },
+  {
+    "name": "Baby Squid(DLC)",
+    "effects": "+1 HP Regeneration when you level up\n-3 % Attack Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/69/Baby_Squid.png/60px-Baby_Squid.png",
+    "imagePath": "assets/img/items/60px-Baby_Squid.png"
+  },
+  {
+    "name": "Baby with a Beard",
+    "effects": "One bullet dealing 1 (+100%) damage is fired from an enemy corpse when they die\n-50 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/09/Baby_with_a_Beard.png/60px-Baby_with_a_Beard.png",
+    "imagePath": "assets/img/items/60px-Baby_with_a_Beard.png"
+  },
+  {
+    "name": "Bag",
+    "effects": "+15 materials when you pick up a crate\n-1 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/d/d4/Bag.png/60px-Bag.png",
+    "imagePath": "assets/img/items/60px-Bag.png"
+  },
+  {
+    "name": "Bait",
+    "effects": "+8 % Damage\nSpecial enemies appear at the beginning of the next wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/ff/Bait.png/60px-Bait.png",
+    "imagePath": "assets/img/items/60px-Bait.png"
+  },
+  {
+    "name": "Ball and Chain",
+    "effects": "+15 % Damage\n+3 Armor\n+5 Knockback\n-3 % Speed\nWeapons have a minimum cooldown of 0.75 seconds between attacks",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/60/Ball_and_Chain.png/60px-Ball_and_Chain.png",
+    "imagePath": "assets/img/items/60px-Ball_and_Chain.png"
+  },
+  {
+    "name": "Bandana",
+    "effects": "Projectiles pierce through 1 additional target\n-10 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/0d/Bandana.png/60px-Bandana.png",
+    "imagePath": "assets/img/items/60px-Bandana.png"
+  },
+  {
+    "name": "Banner",
+    "effects": "+20 Range\n+10 % Attack Speed\n-5 Knockback",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/87/Banner.png/60px-Banner.png",
+    "imagePath": "assets/img/items/60px-Banner.png"
+  },
+  {
+    "name": "Barnacle(DLC)",
+    "effects": "+35% stats gained from level upgrades\n+1 Curse when you level up",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/af/Barnacle.png/60px-Barnacle.png",
+    "imagePath": "assets/img/items/60px-Barnacle.png"
+  },
+  {
+    "name": "Barricade",
+    "effects": "+3 Knockback\n+8 Armor while standing still\n-5 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/12/Barricade.png/60px-Barricade.png",
+    "imagePath": "assets/img/items/60px-Barricade.png"
+  },
+  {
+    "name": "Bat",
+    "effects": "+2 % Life Steal\n-2 Harvesting",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/ad/Bat.png/60px-Bat.png",
+    "imagePath": "assets/img/items/60px-Bat.png"
+  },
+  {
+    "name": "Bean Teacher",
+    "effects": "+50 % XP Gain\n-2 % Life Steal",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/88/Bean_Teacher.png/60px-Bean_Teacher.png",
+    "imagePath": "assets/img/items/60px-Bean_Teacher.png"
+  },
+  {
+    "name": "Beanie",
+    "effects": "+4 % Speed\n-6 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/51/Beanie.png/60px-Beanie.png",
+    "imagePath": "assets/img/items/60px-Beanie.png"
+  },
+  {
+    "name": "Big Arms",
+    "effects": "+12 Melee Damage\n+6 Ranged Damage\n+3 Knockback\n-3 % Attack Speed\n-3 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/0c/Big_Arms.png/60px-Big_Arms.png",
+    "imagePath": "assets/img/items/60px-Big_Arms.png"
+  },
+  {
+    "name": "Black Belt",
+    "effects": "+25 % XP Gain\n+3 Melee Damage\n+3 Knockback\n-8 Luck",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f4/Black_Belt.png/60px-Black_Belt.png",
+    "imagePath": "assets/img/items/60px-Black_Belt.png"
+  },
+  {
+    "name": "Black Flag(DLC)",
+    "effects": "+1 material when you kill a cursed enemy\n+10% Enemies\n+10 % Enemy health\n+10 % Enemy damage\n+5 Curse",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a7/Black_Flag.png/60px-Black_Flag.png",
+    "imagePath": "assets/img/items/60px-Black_Flag.png"
+  },
+  {
+    "name": "Blindfold",
+    "effects": "+5 % Crit Chance\n+5 % Dodge\n-15 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/18/Blindfold.png/60px-Blindfold.png",
+    "imagePath": "assets/img/items/60px-Blindfold.png"
+  },
+  {
+    "name": "Blood Donation",
+    "effects": "+40 Harvesting\nYou take 1 damage per second (does not give invulnerability time)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/3f/Blood_Donation.png/60px-Blood_Donation.png",
+    "imagePath": "assets/img/items/60px-Blood_Donation.png"
+  },
+  {
+    "name": "Blood Leech",
+    "effects": "+2 % Life Steal\n+2 HP Regeneration\n-3 Harvesting",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/78/Blood_Leech.png/60px-Blood_Leech.png",
+    "imagePath": "assets/img/items/60px-Blood_Leech.png"
+  },
+  {
+    "name": "Bloody Hand",
+    "effects": "+10 % Life Steal\n+2 % Damage for every 1 % Life Steal you have\nYou take 1 damage per second (does not give invulnerability time)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/11/Bloody_Hand.png/60px-Bloody_Hand.png",
+    "imagePath": "assets/img/items/60px-Bloody_Hand.png"
+  },
+  {
+    "name": "Boiling Water",
+    "effects": "+2 Elemental Damage\n-1 Max HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/85/Boiling_Water.png/60px-Boiling_Water.png",
+    "imagePath": "assets/img/items/60px-Boiling_Water.png"
+  },
+  {
+    "name": "Bone Dice(DLC)",
+    "effects": "+50% chance to get +1 % Damage when rerolling in the shop\n+10% chance to get -1 Max HP when rerolling in the shop",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/bb/Bone_Dice.png/60px-Bone_Dice.png",
+    "imagePath": "assets/img/items/60px-Bone_Dice.png"
+  },
+  {
+    "name": "Book",
+    "effects": "+1 Engineering",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f3/Book.png/60px-Book.png",
+    "imagePath": "assets/img/items/60px-Book.png"
+  },
+  {
+    "name": "Bowler Hat",
+    "effects": "+15 Luck\n+18 Harvesting\n-5 % Attack Speed\n-3 % Crit Chance",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e1/Bowler_Hat.png/60px-Bowler_Hat.png",
+    "imagePath": "assets/img/items/60px-Bowler_Hat.png"
+  },
+  {
+    "name": "Boxing Glove",
+    "effects": "+1 Melee Damage\n+3 Knockback",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e1/Boxing_Glove.png/60px-Boxing_Glove.png",
+    "imagePath": "assets/img/items/60px-Boxing_Glove.png"
+  },
+  {
+    "name": "Broken Mouth",
+    "effects": "+5 Max HP\n-1 HP Regeneration",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f1/Broken_Mouth.png/60px-Broken_Mouth.png",
+    "imagePath": "assets/img/items/60px-Broken_Mouth.png"
+  },
+  {
+    "name": "Butterfly",
+    "effects": "+2 % Life Steal\n-1 Elemental Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/10/Butterfly.png/60px-Butterfly.png",
+    "imagePath": "assets/img/items/60px-Butterfly.png"
+  },
+  {
+    "name": "Cake",
+    "effects": "+3 Max HP\n-1 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f0/Cake.png/60px-Cake.png",
+    "imagePath": "assets/img/items/60px-Cake.png"
+  },
+  {
+    "name": "Campfire",
+    "effects": "+2 Elemental Damage\n+2 HP Regeneration\n-2 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/01/Campfire.png/60px-Campfire.png",
+    "imagePath": "assets/img/items/60px-Campfire.png"
+  },
+  {
+    "name": "Candle",
+    "effects": "+4 Elemental Damage\n+1 HP Regeneration\n-10% Enemies\n-5 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/30/Candle.png/60px-Candle.png",
+    "imagePath": "assets/img/items/60px-Candle.png"
+  },
+  {
+    "name": "Cape",
+    "effects": "+5 % Life Steal\n+20 % Dodge\n-2 Melee Damage\n-2 Ranged Damage\n-2 Elemental Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/6e/Cape.png/60px-Cape.png",
+    "imagePath": "assets/img/items/60px-Cape.png"
+  },
+  {
+    "name": "Cauldron(DLC)",
+    "effects": "+50% pickup range\n+20 % Damage for 2 seconds after picking up a consumable\n-2 HP Regeneration",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/37/Cauldron.png/60px-Cauldron.png",
+    "imagePath": "assets/img/items/60px-Cauldron.png"
+  },
+  {
+    "name": "Celery Tea",
+    "effects": "+5 % XP Gain at the end of a wave\n+50 % XP Gain during the next wave\n+100 % Enemy health during the next wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/4a/Celery_Tea.png/60px-Celery_Tea.png",
+    "imagePath": "assets/img/items/60px-Celery_Tea.png"
+  },
+  {
+    "name": "Chameleon",
+    "effects": "+3 % Dodge\n+20 % Dodge while standing still\n-4 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f5/Chameleon.png/60px-Chameleon.png",
+    "imagePath": "assets/img/items/60px-Chameleon.png"
+  },
+  {
+    "name": "Charcoal",
+    "effects": "+1 Elemental Damage\n+2 Melee Damage\n-2 Harvesting",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/4f/Charcoal.png/60px-Charcoal.png",
+    "imagePath": "assets/img/items/60px-Charcoal.png"
+  },
+  {
+    "name": "Claw Tree",
+    "effects": "+1 Melee Damage\n+3 % Crit Chance\n-1 Max HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f7/Claw_Tree.png/60px-Claw_Tree.png",
+    "imagePath": "assets/img/items/60px-Claw_Tree.png"
+  },
+  {
+    "name": "Clockwork Wasp",
+    "effects": "+10 % Structure attack speed\n+5 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/8a/Clockwork_Wasp.png/60px-Clockwork_Wasp.png",
+    "imagePath": "assets/img/items/60px-Clockwork_Wasp.png"
+  },
+  {
+    "name": "Clover",
+    "effects": "+20 Luck\n+6 % Dodge\n-2 % Life Steal",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c4/Clover.png/60px-Clover.png",
+    "imagePath": "assets/img/items/60px-Clover.png"
+  },
+  {
+    "name": "Coffee",
+    "effects": "+10 % Attack Speed\n-2 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e9/Coffee.png/60px-Coffee.png",
+    "imagePath": "assets/img/items/60px-Coffee.png"
+  },
+  {
+    "name": "Cog",
+    "effects": "+4 Engineering\n+1 Knockback\n-4 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/ed/Cog.png/60px-Cog.png",
+    "imagePath": "assets/img/items/60px-Cog.png"
+  },
+  {
+    "name": "Coil",
+    "effects": "+5 Knockback\n+1 % Damage for every 1 Knockback you have",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e4/Coil.png/60px-Coil.png",
+    "imagePath": "assets/img/items/60px-Coil.png"
+  },
+  {
+    "name": "Community Support",
+    "effects": "+1 % Attack Speed for every current living enemy\n-2 Armor",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/0e/Community_Support.png/60px-Community_Support.png",
+    "imagePath": "assets/img/items/60px-Community_Support.png"
+  },
+  {
+    "name": "Compass",
+    "effects": "+5 % Speed\n+3 Engineering\n-3 % Crit Chance",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/92/Compass.png/60px-Compass.png",
+    "imagePath": "assets/img/items/60px-Compass.png"
+  },
+  {
+    "name": "Coral(DLC)",
+    "effects": "+10 HP Regeneration while standing still\n-10 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b1/Coral.png/60px-Coral.png",
+    "imagePath": "assets/img/items/60px-Coral.png"
+  },
+  {
+    "name": "Corrupted Shard(DLC)",
+    "effects": "+3 % Damage\n+1 Curse",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e4/Corrupted_Shard.png/60px-Corrupted_Shard.png",
+    "imagePath": "assets/img/items/60px-Corrupted_Shard.png"
+  },
+  {
+    "name": "Coupon",
+    "effects": "-5 % Items Price",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c5/Coupon.png/60px-Coupon.png",
+    "imagePath": "assets/img/items/60px-Coupon.png"
+  },
+  {
+    "name": "Crown",
+    "effects": "Harvesting increases by an additional 8% at the end of a wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f3/Crown.png/60px-Crown.png",
+    "imagePath": "assets/img/items/60px-Crown.png"
+  },
+  {
+    "name": "Crystal(DLC)",
+    "effects": "+5 % Attack Speed\n+1 % Attack Speed every 1 second until the end of the wave\nBonus is lost when taking damage\n-2 Engineering",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/31/Crystal.png/60px-Crystal.png",
+    "imagePath": "assets/img/items/60px-Crystal.png"
+  },
+  {
+    "name": "Cute Monkey",
+    "effects": "+8% chance to heal 1 HP when picking up a material\n-1 Ranged Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/83/Cute_Monkey.png/60px-Cute_Monkey.png",
+    "imagePath": "assets/img/items/60px-Cute_Monkey.png"
+  },
+  {
+    "name": "Cyberball",
+    "effects": "25% chance to deal 1 (25%) damage to a random enemy when an enemy dies",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/ac/Cyberball.png/60px-Cyberball.png",
+    "imagePath": "assets/img/items/60px-Cyberball.png"
+  },
+  {
+    "name": "Cyclops Worm",
+    "effects": "+12 % Damage\n-12 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/51/Cyclops_Worm.png/60px-Cyclops_Worm.png",
+    "imagePath": "assets/img/items/60px-Cyclops_Worm.png"
+  },
+  {
+    "name": "Dangerous Bunny",
+    "effects": "+1 free reroll in the shop",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/79/Dangerous_Bunny.png/60px-Dangerous_Bunny.png",
+    "imagePath": "assets/img/items/60px-Dangerous_Bunny.png"
+  },
+  {
+    "name": "Decomposing Flesh",
+    "effects": "+1 % Life Steal when you level up\n-1 Max HP when you level up",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a8/Decomposing_Flesh.png/60px-Decomposing_Flesh.png",
+    "imagePath": "assets/img/items/60px-Decomposing_Flesh.png"
+  },
+  {
+    "name": "Defective Steroids",
+    "effects": "+2 Max HP\n+2 Melee Damage\n-3 % Attack Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/54/Defective_Steroids.png/60px-Defective_Steroids.png",
+    "imagePath": "assets/img/items/60px-Defective_Steroids.png"
+  },
+  {
+    "name": "Diploma",
+    "effects": "+10 Engineering\n+50 % XP Gain\n-3 Max HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/49/Diploma.png/60px-Diploma.png",
+    "imagePath": "assets/img/items/60px-Diploma.png"
+  },
+  {
+    "name": "Duct Tape",
+    "effects": "+1 Armor\n+1 Engineering\n-2 Max HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/4e/Duct_Tape.png/60px-Duct_Tape.png",
+    "imagePath": "assets/img/items/60px-Duct_Tape.png"
+  },
+  {
+    "name": "Dynamite",
+    "effects": "+15 % Explosion Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/fc/Dynamite.png/60px-Dynamite.png",
+    "imagePath": "assets/img/items/60px-Dynamite.png"
+  },
+  {
+    "name": "Energy Bracelet",
+    "effects": "+4 % Crit Chance\n+2 Elemental Damage\n-2 Ranged Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/cc/Energy_Bracelet.png/60px-Energy_Bracelet.png",
+    "imagePath": "assets/img/items/60px-Energy_Bracelet.png"
+  },
+  {
+    "name": "Esty's Couch",
+    "effects": "+5 Max HP\n+2 HP Regeneration for every permanent -1 % Speed you have\n-20 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/2c/Esty%27s_Couch.png/60px-Esty%27s_Couch.png",
+    "imagePath": "assets/img/items/60px-Esty%27s_Couch.png"
+  },
+  {
+    "name": "Exoskeleton",
+    "effects": "+3 Armor\n+5 % Crit Chance\n+5 Engineering\n+5 % Speed\n-2 HP Regeneration\n-2 % Life Steal",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/15/Exoskeleton.png/60px-Exoskeleton.png",
+    "imagePath": "assets/img/items/60px-Exoskeleton.png"
+  },
+  {
+    "name": "Explosive Shells",
+    "effects": "+60 % Explosion Damage\n+15 % Explosion Size\n-15 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/fb/Explosive_Shells.png/60px-Explosive_Shells.png",
+    "imagePath": "assets/img/items/60px-Explosive_Shells.png"
+  },
+  {
+    "name": "Explosive Turret",
+    "effects": "Spawns a turret that shoots explosive bullets dealing 25 (+150%) damage in an area",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/1a/Explosive_Turret.png/60px-Explosive_Turret.png",
+    "imagePath": "assets/img/items/60px-Explosive_Turret.png"
+  },
+  {
+    "name": "Extra Stomach",
+    "effects": "+1 Max HP when picking up a consumable while at maximum health (max +8 per wave)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c4/Extra_Stomach.png/60px-Extra_Stomach.png",
+    "imagePath": "assets/img/items/60px-Extra_Stomach.png"
+  },
+  {
+    "name": "Eyepatch(DLC)",
+    "effects": "Projectiles get +1 piercing on critical hit\n+3 % Crit Chance\n-10% Accuracy",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b7/Eyepatch.png/60px-Eyepatch.png",
+    "imagePath": "assets/img/items/60px-Eyepatch.png"
+  },
+  {
+    "name": "Eyes Surgery",
+    "effects": "Burning activates 20% faster\n+1 Elemental Damage\n-10 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/26/Eyes_Surgery.png/60px-Eyes_Surgery.png",
+    "imagePath": "assets/img/items/60px-Eyes_Surgery.png"
+  },
+  {
+    "name": "Fertilizer",
+    "effects": "+8 Harvesting\n-1 Melee Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/25/Fertilizer.png/60px-Fertilizer.png",
+    "imagePath": "assets/img/items/60px-Fertilizer.png"
+  },
+  {
+    "name": "Fairy",
+    "effects": "+1 HP Regeneration for every different Tier I item you have\n-3 HP Regeneration for every different Tier IV item you have",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/43/Fairy.png/60px-Fairy.png",
+    "imagePath": "assets/img/items/60px-Fairy.png"
+  },
+  {
+    "name": "Feather(DLC)",
+    "effects": "+1 Ranged Damage\n+3 % Dodge\n-3 % XP Gain",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/33/Feather.png/60px-Feather.png",
+    "imagePath": "assets/img/items/60px-Feather.png"
+  },
+  {
+    "name": "Fin",
+    "effects": "+10 % Speed\n+3 % Life Steal\n-8 Luck",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/82/Fin.png/60px-Fin.png",
+    "imagePath": "assets/img/items/60px-Fin.png"
+  },
+  {
+    "name": "Fish Hook(DLC)",
+    "effects": "Locked items and weapons have a 20% chance to become cursed when leaving the shop\n+1 Curse",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a6/Fish_Hook.png/60px-Fish_Hook.png",
+    "imagePath": "assets/img/items/60px-Fish_Hook.png"
+  },
+  {
+    "name": "Focus",
+    "effects": "+30 % Damage\n-3 % Attack Speed for every different weapon you have",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/37/Focus.png/60px-Focus.png",
+    "imagePath": "assets/img/items/60px-Focus.png"
+  },
+  {
+    "name": "Fried Rice",
+    "effects": "+1 HP Regeneration for every currently burning enemy",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/61/Fried_Rice.png/60px-Fried_Rice.png",
+    "imagePath": "assets/img/items/60px-Fried_Rice.png"
+  },
+  {
+    "name": "Frozen Heart",
+    "effects": "+8 Elemental Damage\n+5 % Crit Chance\nWeapon damage additionally scales with 10% Elemental Damage\nBurning activates 100% slower",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/18/Frozen_Heart.png/60px-Frozen_Heart.png",
+    "imagePath": "assets/img/items/60px-Frozen_Heart.png"
+  },
+  {
+    "name": "Fuel Tank",
+    "effects": "+4 Elemental Damage\n-1 Melee Damage\n-1 Ranged Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/bb/Fuel_Tank.png/60px-Fuel_Tank.png",
+    "imagePath": "assets/img/items/60px-Fuel_Tank.png"
+  },
+  {
+    "name": "Gambling Token",
+    "effects": "+8 % Dodge\n-1 Armor",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/d/df/Gambling_Token.png/60px-Gambling_Token.png",
+    "imagePath": "assets/img/items/60px-Gambling_Token.png"
+  },
+  {
+    "name": "Garden",
+    "effects": "Spawns a garden that creates a fruit every 15 seconds",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/77/Garden.png/60px-Garden.png",
+    "imagePath": "assets/img/items/60px-Garden.png"
+  },
+  {
+    "name": "Gentle Alien",
+    "effects": "+2 Max HP\n+5 % Damage\n+5% Enemies",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/22/Gentle_Alien.png/60px-Gentle_Alien.png",
+    "imagePath": "assets/img/items/60px-Gentle_Alien.png"
+  },
+  {
+    "name": "Giant Belt",
+    "effects": "Critical hits deal 10% of an enemy’s current health as bonus damage (1% for bosses and elites)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e3/Giant_Belt.png/60px-Giant_Belt.png",
+    "imagePath": "assets/img/items/60px-Giant_Belt.png"
+  },
+  {
+    "name": "Glass Cannon",
+    "effects": "+25 % Damage\n-3 Armor",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/6e/Glass_Cannon.png/60px-Glass_Cannon.png",
+    "imagePath": "assets/img/items/60px-Glass_Cannon.png"
+  },
+  {
+    "name": "Glasses",
+    "effects": "+20 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b4/Glasses.png/60px-Glasses.png",
+    "imagePath": "assets/img/items/60px-Glasses.png"
+  },
+  {
+    "name": "Gnome",
+    "effects": "+10 Melee Damage\n+10 Elemental Damage\n-20 Range\n-20% pickup range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/78/Gnome.png/60px-Gnome.png",
+    "imagePath": "assets/img/items/60px-Gnome.png"
+  },
+  {
+    "name": "Goat Skull",
+    "effects": "+3 Melee Damage\n-2 % Crit Chance",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/39/Goat_Skull.png/60px-Goat_Skull.png",
+    "imagePath": "assets/img/items/60px-Goat_Skull.png"
+  },
+  {
+    "name": "Goblet(DLC)",
+    "effects": "+15% chance to heal 1 HP when killing an enemy\n-3 HP Regeneration",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b2/Goblet.png/60px-Goblet.png",
+    "imagePath": "assets/img/items/60px-Goblet.png"
+  },
+  {
+    "name": "Goldfish(DLC)",
+    "effects": "Items will be 1 tier higher after the next reroll",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/02/Goldfish.png/60px-Goldfish.png",
+    "imagePath": "assets/img/items/60px-Goldfish.png"
+  },
+  {
+    "name": "Greek Fire",
+    "effects": "Burning deals an additional 10% of current enemy HP as damage (1% for bosses and elites)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/30/Greek_Fire.png/60px-Greek_Fire.png",
+    "imagePath": "assets/img/items/60px-Greek_Fire.png"
+  },
+  {
+    "name": "Grind's Magical Leaf",
+    "effects": "+3 Max HP at the end of a wave\n+1 HP Regeneration at the end of a wave\n+1 % Life Steal at the end of a wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/ab/Grind%27s_Magical_Leaf.png/60px-Grind%27s_Magical_Leaf.png",
+    "imagePath": "assets/img/items/60px-Grind%27s_Magical_Leaf.png"
+  },
+  {
+    "name": "Gummy Berserker",
+    "effects": "+5 % Attack Speed\n+25 Range\n-1 Armor",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/16/Gummy_Berserker.png/60px-Gummy_Berserker.png",
+    "imagePath": "assets/img/items/60px-Gummy_Berserker.png"
+  },
+  {
+    "name": "Handcuffs",
+    "effects": "+8 Melee Damage\n+8 Ranged Damage\n+8 Elemental Damage\nYour Max HP is capped at its current value",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/14/Handcuffs.png/60px-Handcuffs.png",
+    "imagePath": "assets/img/items/60px-Handcuffs.png"
+  },
+  {
+    "name": "Head Injury",
+    "effects": "+6 % Damage\n-8 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/49/Head_Injury.png/60px-Head_Injury.png",
+    "imagePath": "assets/img/items/60px-Head_Injury.png"
+  },
+  {
+    "name": "Heavy Bullets",
+    "effects": "+5 Ranged Damage\n+10 % Damage\n+10 Range\n-5 % Attack Speed\n-5 % Crit Chance",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/71/Heavy_Bullets.png/60px-Heavy_Bullets.png",
+    "imagePath": "assets/img/items/60px-Heavy_Bullets.png"
+  },
+  {
+    "name": "Hedgehog",
+    "effects": "+2 Melee Damage\n+1 Ranged Damage\n-1 HP Regeneration",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c4/Hedgehog.png/60px-Hedgehog.png",
+    "imagePath": "assets/img/items/60px-Hedgehog.png"
+  },
+  {
+    "name": "Helmet",
+    "effects": "+1 Armor\n-2 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/37/Helmet.png/60px-Helmet.png",
+    "imagePath": "assets/img/items/60px-Helmet.png"
+  },
+  {
+    "name": "Honey",
+    "effects": "+3 Ranged Damage\n+10 % Explosion Damage\n+5 % Explosion Size\n-3 % Speed\n-3 % Dodge",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c6/Honey.png/60px-Honey.png",
+    "imagePath": "assets/img/items/60px-Honey.png"
+  },
+  {
+    "name": "Hunting Trophy",
+    "effects": "33% chance to gain 1 material when killing an enemy with a critical hit",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/56/Hunting_Trophy.png/60px-Hunting_Trophy.png",
+    "imagePath": "assets/img/items/60px-Hunting_Trophy.png"
+  },
+  {
+    "name": "Ice Cube",
+    "effects": "Enemies take 10% more damage for 3 seconds when first hit by Elemental Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f9/Ice_Cube.png/60px-Ice_Cube.png",
+    "imagePath": "assets/img/items/60px-Ice_Cube.png"
+  },
+  {
+    "name": "Improved Tools",
+    "effects": "+10 % Attack Speed\nIncreases the attack speed of your structures by 0% (50%)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/31/Improved_Tools.png/60px-Improved_Tools.png",
+    "imagePath": "assets/img/items/60px-Improved_Tools.png"
+  },
+  {
+    "name": "Incendiary Turret",
+    "effects": "Spawns a turret that shoots flames dealing 8x5 (+33%) burning damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/25/Incendiary_Turret.png/60px-Incendiary_Turret.png",
+    "imagePath": "assets/img/items/60px-Incendiary_Turret.png"
+  },
+  {
+    "name": "Injection",
+    "effects": "+7 % Damage\n-2 Max HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/44/Injection.png/60px-Injection.png",
+    "imagePath": "assets/img/items/60px-Injection.png"
+  },
+  {
+    "name": "Insanity",
+    "effects": "+6 % Crit Chance\n-3 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/aa/Insanity.png/60px-Insanity.png",
+    "imagePath": "assets/img/items/60px-Insanity.png"
+  },
+  {
+    "name": "Jelly",
+    "effects": "+1 Max HP for every different weapon you have",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/05/Jelly.png/60px-Jelly.png",
+    "imagePath": "assets/img/items/60px-Jelly.png"
+  },
+  {
+    "name": "Jerky(DLC)",
+    "effects": "+3 HP recovered from consumables\nConsumables heal you over 4 seconds instead of instantly",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/68/Jerky.png/60px-Jerky.png",
+    "imagePath": "assets/img/items/60px-Jerky.png"
+  },
+  {
+    "name": "Jet Pack",
+    "effects": "+15 % Speed\n+10 % Dodge\n-5 Max HP\n-1 Armor",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/4b/Jet_Pack.png/60px-Jet_Pack.png",
+    "imagePath": "assets/img/items/60px-Jet_Pack.png"
+  },
+  {
+    "name": "Knot(DLC)",
+    "effects": "+15 % Damage\n+15 Max HP\nWeapons can no longer be upgraded or recycled",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/00/Knot.png/60px-Knot.png",
+    "imagePath": "assets/img/items/60px-Knot.png"
+  },
+  {
+    "name": "Kraken's Eye(DLC)",
+    "effects": "You have a 50% chance to explode for 10 (+500%) damage when you get hit\n+10 Max HP\n+10 Curse",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/72/Kraken%27s_Eye.png/60px-Kraken%27s_Eye.png",
+    "imagePath": "assets/img/items/60px-Kraken%27s_Eye.png"
+  },
+  {
+    "name": "Landmines",
+    "effects": "A landmine spawns every 12 seconds dealing 10 (+100%) damage in an area",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e5/Landmines.png/60px-Landmines.png",
+    "imagePath": "assets/img/items/60px-Landmines.png"
+  },
+  {
+    "name": "Lantern(DLC)",
+    "effects": "+10 % Damage\n+50 Range\n+15 Knockback\nKnocks nearby enemies back every 3 seconds",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/f5/Lantern.png/60px-Lantern.png",
+    "imagePath": "assets/img/items/60px-Lantern.png"
+  },
+  {
+    "name": "Laser Turret",
+    "effects": "Spawns a turret that shoots piercing bullets dealing 20 (+125%) damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/ed/Laser_Turret.png/60px-Laser_Turret.png",
+    "imagePath": "assets/img/items/60px-Laser_Turret.png"
+  },
+  {
+    "name": "Leather Vest",
+    "effects": "+2 Armor\n+6 % Dodge\n-3 Max HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b6/Leather_Vest.png/60px-Leather_Vest.png",
+    "imagePath": "assets/img/items/60px-Leather_Vest.png"
+  },
+  {
+    "name": "Lemonade",
+    "effects": "+1 HP recovered from consumables",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/2a/Lemonade.png/60px-Lemonade.png",
+    "imagePath": "assets/img/items/60px-Lemonade.png"
+  },
+  {
+    "name": "Lens",
+    "effects": "+1 Ranged Damage\n-5 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/ae/Lens.png/60px-Lens.png",
+    "imagePath": "assets/img/items/60px-Lens.png"
+  },
+  {
+    "name": "Lighthouse(DLC)",
+    "effects": "+20 Engineering\n-1 Engineering for every 1 Structure you have",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/be/Lighthouse.png/60px-Lighthouse.png",
+    "imagePath": "assets/img/items/60px-Lighthouse.png"
+  },
+  {
+    "name": "Little Frog",
+    "effects": "+20% pickup range\n+10 Harvesting\n-3 % Dodge",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b2/Little_Frog.png/60px-Little_Frog.png",
+    "imagePath": "assets/img/items/60px-Little_Frog.png"
+  },
+  {
+    "name": "Little Muscley Dude",
+    "effects": "+3 Melee Damage\n+5 Max HP\n-15 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/79/Little_Muscley_Dude.png/60px-Little_Muscley_Dude.png",
+    "imagePath": "assets/img/items/60px-Little_Muscley_Dude.png"
+  },
+  {
+    "name": "Lost Duck",
+    "effects": "+8 Luck\n-1 Elemental Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/84/Lost_Duck.png/60px-Lost_Duck.png",
+    "imagePath": "assets/img/items/60px-Lost_Duck.png"
+  },
+  {
+    "name": "Lucky Charm",
+    "effects": "+30 Luck\n-2 Melee Damage\n-1 Ranged Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/01/Lucky_Charm.png/60px-Lucky_Charm.png",
+    "imagePath": "assets/img/items/60px-Lucky_Charm.png"
+  },
+  {
+    "name": "Lucky Coin",
+    "effects": "+2 Luck for every 1 % Crit Chance you have\n-2 Armor",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a3/Lucky_Coin.png/60px-Lucky_Coin.png",
+    "imagePath": "assets/img/items/60px-Lucky_Coin.png"
+  },
+  {
+    "name": "Lure",
+    "effects": "+2 HP Regeneration\n2 additional loot aliens appear during the next wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/11/Lure.png/60px-Lure.png",
+    "imagePath": "assets/img/items/60px-Lure.png"
+  },
+  {
+    "name": "Lumberjack Shirt",
+    "effects": "Trees die in one hit",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/eb/Lumberjack_Shirt.png/60px-Lumberjack_Shirt.png",
+    "imagePath": "assets/img/items/60px-Lumberjack_Shirt.png"
+  },
+  {
+    "name": "Mammoth",
+    "effects": "+20 Melee Damage\n+5 HP Regeneration\n+5 Knockback\n-8 % Damage\n-3 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a5/Mammoth.png/60px-Mammoth.png",
+    "imagePath": "assets/img/items/60px-Mammoth.png"
+  },
+  {
+    "name": "Mastery",
+    "effects": "+6 Melee Damage\n-3 Ranged Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/58/Mastery.png/60px-Mastery.png",
+    "imagePath": "assets/img/items/60px-Mastery.png"
+  },
+  {
+    "name": "Medal",
+    "effects": "+3 Max HP\n+3 % Damage\n+1 Armor\n+3 % Speed\n-4 % Crit Chance",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b7/Medal.png/60px-Medal.png",
+    "imagePath": "assets/img/items/60px-Medal.png"
+  },
+  {
+    "name": "Medical Turret",
+    "effects": "Spawns a medical turret that shoots bullets healing 3 (+5%) HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/fc/Medical_Turret.png/60px-Medical_Turret.png",
+    "imagePath": "assets/img/items/60px-Medical_Turret.png"
+  },
+  {
+    "name": "Medikit",
+    "effects": "+10 HP Regeneration\n+2 HP Regeneration every 5 seconds until the end of the wave\n-10 Luck",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a3/Medikit.png/60px-Medikit.png",
+    "imagePath": "assets/img/items/60px-Medikit.png"
+  },
+  {
+    "name": "Metal Detector",
+    "effects": "+5% chance to double the value of picked up materials\n+6 Luck\n+2 Engineering\n-5 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/35/Metal_Detector.png/60px-Metal_Detector.png",
+    "imagePath": "assets/img/items/60px-Metal_Detector.png"
+  },
+  {
+    "name": "Metal Plate",
+    "effects": "+2 Armor\n-3 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a7/Metal_Plate.png/60px-Metal_Plate.png",
+    "imagePath": "assets/img/items/60px-Metal_Plate.png"
+  },
+  {
+    "name": "Mirror(DLC)",
+    "effects": "Duplicates the next item you get from the shop (item limits can't be exceeded)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b8/Mirror.png/60px-Mirror.png",
+    "imagePath": "assets/img/items/60px-Mirror.png"
+  },
+  {
+    "name": "Missile",
+    "effects": "+10 % Damage\n-4 % Attack Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/fc/Missile.png/60px-Missile.png",
+    "imagePath": "assets/img/items/60px-Missile.png"
+  },
+  {
+    "name": "Mouse",
+    "effects": "+5 % Life Steal\n+10% Enemies\n-5 Harvesting",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/5c/Mouse.png/60px-Mouse.png",
+    "imagePath": "assets/img/items/60px-Mouse.png"
+  },
+  {
+    "name": "Mushroom",
+    "effects": "+3 HP Regeneration\n-2 Luck",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/8c/Mushroom.png/60px-Mushroom.png",
+    "imagePath": "assets/img/items/60px-Mushroom.png"
+  },
+  {
+    "name": "Mutation",
+    "effects": "+1 Ranged Damage\n+1 Elemental Damage\n-3 Knockback",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e5/Mutation.png/60px-Mutation.png",
+    "imagePath": "assets/img/items/60px-Mutation.png"
+  },
+  {
+    "name": "Nail",
+    "effects": "+5 Engineering\nWeapon damage additionally scales with 20% Engineering\n-2 Ranged Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/40/Nail.png/60px-Nail.png",
+    "imagePath": "assets/img/items/60px-Nail.png"
+  },
+  {
+    "name": "Night Goggles",
+    "effects": "+15 % Crit Chance\n+50 Range\n-3 Max HP\n-1 Armor",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/d/d5/Night_Goggles.png/60px-Night_Goggles.png",
+    "imagePath": "assets/img/items/60px-Night_Goggles.png"
+  },
+  {
+    "name": "Octopus",
+    "effects": "+12 Max HP\n+5 HP Regeneration\n+3 % Life Steal\n-8 % Crit Chance",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/5a/Octopus.png/60px-Octopus.png",
+    "imagePath": "assets/img/items/60px-Octopus.png"
+  },
+  {
+    "name": "Padding",
+    "effects": "+3 Max HP\n+1 Max HP for every 80 Materials you have",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/d/d6/Padding.png/60px-Padding.png",
+    "imagePath": "assets/img/items/60px-Padding.png"
+  },
+  {
+    "name": "Panda",
+    "effects": "+12 Max HP\n+25 Luck\n-5 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/00/Panda.png/60px-Panda.png",
+    "imagePath": "assets/img/items/60px-Panda.png"
+  },
+  {
+    "name": "Peaceful Bee",
+    "effects": "+4 % Dodge\n+4 Harvesting\n-1 Melee Damage\n-1 Ranged Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/cb/Peaceful_Bee.png/60px-Peaceful_Bee.png",
+    "imagePath": "assets/img/items/60px-Peaceful_Bee.png"
+  },
+  {
+    "name": "Peacock",
+    "effects": "+25 % XP Gain\n+100 % XP Gain during the next wave\n+50 % Enemy damage during the next wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/61/Peacock.png/60px-Peacock.png",
+    "imagePath": "assets/img/items/60px-Peacock.png"
+  },
+  {
+    "name": "Pearl(DLC)",
+    "effects": "+1 % Damage for every permanent 10 Luck you have\n+3% chance of finding an extra Pearl in a crate",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/73/Pearl.png/60px-Pearl.png",
+    "imagePath": "assets/img/items/60px-Pearl.png"
+  },
+  {
+    "name": "Pencil",
+    "effects": "+2 Engineering\n-1 % Attack Speed\n-1 % Crit Chance",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/ea/Pencil.png/60px-Pencil.png",
+    "imagePath": "assets/img/items/60px-Pencil.png"
+  },
+  {
+    "name": "Penguin(DLC)",
+    "effects": "+1 HP Regeneration\n+1 HP Regeneration until the end of the wave when picking up a consumable while at maximum health",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/97/Penguin.png/60px-Penguin.png",
+    "imagePath": "assets/img/items/60px-Penguin.png"
+  },
+  {
+    "name": "Piggy Bank",
+    "effects": "+20% of your materials at the start of waves (stops working at wave 20)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a3/Piggy_Bank.png/60px-Piggy_Bank.png",
+    "imagePath": "assets/img/items/60px-Piggy_Bank.png"
+  },
+  {
+    "name": "Pile of Books",
+    "effects": "Your structures can crit\n+3 % Crit Chance\n+3 Engineering",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/0f/Pile_of_Books.png/60px-Pile_of_Books.png",
+    "imagePath": "assets/img/items/60px-Pile_of_Books.png"
+  },
+  {
+    "name": "Plant",
+    "effects": "+3 HP Regeneration\n-1 % Life Steal",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/d/d1/Plant.png/60px-Plant.png",
+    "imagePath": "assets/img/items/60px-Plant.png"
+  },
+  {
+    "name": "Plastic Explosive",
+    "effects": "+25 % Explosion Size",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/bb/Plastic_Explosive.png/60px-Plastic_Explosive.png",
+    "imagePath": "assets/img/items/60px-Plastic_Explosive.png"
+  },
+  {
+    "name": "Poisonous Tonic",
+    "effects": "+10 % Attack Speed\n+5 % Crit Chance\n+15 Range\n-2 HP Regeneration",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/22/Poisonous_Tonic.png/60px-Poisonous_Tonic.png",
+    "imagePath": "assets/img/items/60px-Poisonous_Tonic.png"
+  },
+  {
+    "name": "Pocket Factory",
+    "effects": "+2 Engineering\nKilling a tree spawns a turret",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e5/Pocket_Factory.png/60px-Pocket_Factory.png",
+    "imagePath": "assets/img/items/60px-Pocket_Factory.png"
+  },
+  {
+    "name": "Potato",
+    "effects": "+3 Max HP\n+2 HP Regeneration\n+1 % Life Steal\n+5 % Damage\n+5 % Attack Speed\n+3 % Speed\n+3 % Dodge\n+1 Armor\n+5 Luck",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c2/Potato.png/60px-Potato.png",
+    "imagePath": "assets/img/items/60px-Potato.png"
+  },
+  {
+    "name": "Power Generator",
+    "effects": "+1 % Damage for every permanent 1 % Speed you have\n-5 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/2e/Power_Generator.png/60px-Power_Generator.png",
+    "imagePath": "assets/img/items/60px-Power_Generator.png"
+  },
+  {
+    "name": "Propeller Hat",
+    "effects": "+10 Luck\n-2 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/96/Propeller_Hat.png/60px-Propeller_Hat.png",
+    "imagePath": "assets/img/items/60px-Propeller_Hat.png"
+  },
+  {
+    "name": "Pumpkin",
+    "effects": "+15% Piercing Damage. Can't go above base damage\n-2 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/64/Pumpkin.png/60px-Pumpkin.png",
+    "imagePath": "assets/img/items/60px-Pumpkin.png"
+  },
+  {
+    "name": "Recycling Machine",
+    "effects": "Gain 35% more materials from recycling items",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/26/Recycling_Machine.png/60px-Recycling_Machine.png",
+    "imagePath": "assets/img/items/60px-Recycling_Machine.png"
+  },
+  {
+    "name": "Regeneration Potion",
+    "effects": "HP Regeneration is doubled when you have less than 50% health\n+3 HP Regeneration",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/2d/Regeneration_Potion.png/60px-Regeneration_Potion.png",
+    "imagePath": "assets/img/items/60px-Regeneration_Potion.png"
+  },
+  {
+    "name": "Reinforced Steel",
+    "effects": "+2 Ranged Damage\n+3 Engineering\n-3 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/6b/Reinforced_Steel.png/60px-Reinforced_Steel.png",
+    "imagePath": "assets/img/items/60px-Reinforced_Steel.png"
+  },
+  {
+    "name": "Retromation's Hoodie",
+    "effects": "+2 % Attack Speed for every 1 % Dodge you have\n-80 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/86/Retromation%27s_Hoodie.png/60px-Retromation%27s_Hoodie.png",
+    "imagePath": "assets/img/items/60px-Retromation%27s_Hoodie.png"
+  },
+  {
+    "name": "Ricochet",
+    "effects": "Your projectiles gain +1 bounce\n-25 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/87/Ricochet.png/60px-Ricochet.png",
+    "imagePath": "assets/img/items/60px-Ricochet.png"
+  },
+  {
+    "name": "Rip and Tear",
+    "effects": "Enemies have a 20% chance to explode for 10 (+50%) damage when they die\n-5 % Crit Chance",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/5c/Rip_and_Tear.png/60px-Rip_and_Tear.png",
+    "imagePath": "assets/img/items/60px-Rip_and_Tear.png"
+  },
+  {
+    "name": "Riposte",
+    "effects": "+2 Melee Damage\n100% chance to deal 1 (300%) damage to an enemy when dodging their attack",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/d/de/Riposte.png/60px-Riposte.png",
+    "imagePath": "assets/img/items/60px-Riposte.png"
+  },
+  {
+    "name": "Ritual",
+    "effects": "+6 % Damage\n+2 % Life Steal\n-2 Engineering",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/70/Ritual.png/60px-Ritual.png",
+    "imagePath": "assets/img/items/60px-Ritual.png"
+  },
+  {
+    "name": "Robot Arm",
+    "effects": "+3 Melee Damage at the end of a wave\n+3 Engineering at the end of a wave\n-1 Max HP at the end of a wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b5/Robot_Arm.png/60px-Robot_Arm.png",
+    "imagePath": "assets/img/items/60px-Robot_Arm.png"
+  },
+  {
+    "name": "Sad Tomato",
+    "effects": "+8 HP Regeneration\nStart waves with -50% HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/69/Sad_Tomato.png/60px-Sad_Tomato.png",
+    "imagePath": "assets/img/items/60px-Sad_Tomato.png"
+  },
+  {
+    "name": "Saltwater(DLC)",
+    "effects": "+2 Melee Damage\n+3 % Attack Speed\n+10 % Speed for 3 seconds when you take damage\n-1 Elemental Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a1/Saltwater.png/60px-Saltwater.png",
+    "imagePath": "assets/img/items/60px-Saltwater.png"
+  },
+  {
+    "name": "Scar",
+    "effects": "+20 % XP Gain\n-8 Range",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c7/Scar.png/60px-Scar.png",
+    "imagePath": "assets/img/items/60px-Scar.png"
+  },
+  {
+    "name": "Scared Sausage",
+    "effects": "Attacks have a 25% chance to deal 3x1 (+100%) burning damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/66/Scared_Sausage.png/60px-Scared_Sausage.png",
+    "imagePath": "assets/img/items/60px-Scared_Sausage.png"
+  },
+  {
+    "name": "Scarf(DLC)",
+    "effects": "+4 HP Regeneration\n+4 Melee Damage\n+4 % Speed\n+25 % Enemy Speed during the next wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/56/Scarf.png/60px-Scarf.png",
+    "imagePath": "assets/img/items/60px-Scarf.png"
+  },
+  {
+    "name": "Scope",
+    "effects": "+2 Ranged Damage\n+25 Range\n-7 % Attack Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/74/Scope.png/60px-Scope.png",
+    "imagePath": "assets/img/items/60px-Scope.png"
+  },
+  {
+    "name": "Seashell(DLC)",
+    "effects": "Every ranged weapon's 5th projectile has +3 projectiles\n-10 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/eb/Seashell.png/60px-Seashell.png",
+    "imagePath": "assets/img/items/60px-Seashell.png"
+  },
+  {
+    "name": "Shackles",
+    "effects": "+8 HP Regeneration\n+8 Engineering\n+80 Range\nYour Speed is capped at its current value",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b7/Shackles.png/60px-Shackles.png",
+    "imagePath": "assets/img/items/60px-Shackles.png"
+  },
+  {
+    "name": "Shady Potion",
+    "effects": "+20 Luck\n-2 HP Regeneration",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/9a/Shady_Potion.png/60px-Shady_Potion.png",
+    "imagePath": "assets/img/items/60px-Shady_Potion.png"
+  },
+  {
+    "name": "Sharp Bullet",
+    "effects": "Projectiles pierce through 1 additional target\n-20% Piercing Damage\n-5 % Damage\n-3 Knockback",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/6b/Sharp_Bullet.png/60px-Sharp_Bullet.png",
+    "imagePath": "assets/img/items/60px-Sharp_Bullet.png"
+  },
+  {
+    "name": "Shmoop",
+    "effects": "+6 Max HP\n+2 HP Regeneration\n-2 Melee Damage\n-1 Ranged Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/87/Shmoop.png/60px-Shmoop.png",
+    "imagePath": "assets/img/items/60px-Shmoop.png"
+  },
+  {
+    "name": "Sifd's Relic",
+    "effects": "+3 Armor\n+100% chance to instantly attract a material when it’s dropped",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/84/Sifd%27s_Relic.png/60px-Sifd%27s_Relic.png",
+    "imagePath": "assets/img/items/60px-Sifd%27s_Relic.png"
+  },
+  {
+    "name": "Silver Bullet",
+    "effects": "+25% damage against bosses and elites",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/0f/Silver_Bullet.png/60px-Silver_Bullet.png",
+    "imagePath": "assets/img/items/60px-Silver_Bullet.png"
+  },
+  {
+    "name": "Small Fish(DLC)",
+    "effects": "+10% damage against targets above 75% health\n-3 % Attack Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/59/Small_Fish.png/60px-Small_Fish.png",
+    "imagePath": "assets/img/items/60px-Small_Fish.png"
+  },
+  {
+    "name": "Small Magazine",
+    "effects": "+2 Ranged Damage\n+10 % Attack Speed\n-6 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/06/Small_Magazine.png/60px-Small_Magazine.png",
+    "imagePath": "assets/img/items/60px-Small_Magazine.png"
+  },
+  {
+    "name": "Snail",
+    "effects": "-8 % Enemy Speed\n-3 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/d/d2/Snail.png/60px-Snail.png",
+    "imagePath": "assets/img/items/60px-Snail.png"
+  },
+  {
+    "name": "Snake",
+    "effects": "Burning spreads to an additional nearby enemy\n-1 Max HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/5a/Snake.png/60px-Snake.png",
+    "imagePath": "assets/img/items/60px-Snake.png"
+  },
+  {
+    "name": "Snowball",
+    "effects": "+1 Elemental Damage every time you get an item that increases Elemental Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/04/Snowball.png/60px-Snowball.png",
+    "imagePath": "assets/img/items/60px-Snowball.png"
+  },
+  {
+    "name": "Spicy Sauce",
+    "effects": "+3 Max HP\nConsumables have a 50% chance to explode for 10 (+100%) damage when picked up",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/8b/Spicy_Sauce.png/60px-Spicy_Sauce.png",
+    "imagePath": "assets/img/items/60px-Spicy_Sauce.png"
+  },
+  {
+    "name": "Spider",
+    "effects": "+12 % Damage\n+6 % Attack Speed for every different weapon you have\n-3 % Dodge\n-5 Harvesting",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/84/Spider.png/60px-Spider.png",
+    "imagePath": "assets/img/items/60px-Spider.png"
+  },
+  {
+    "name": "Spyglass(DLC)",
+    "effects": "+10 Range\n-25 % Reroll Price",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c1/Spyglass.png/60px-Spyglass.png",
+    "imagePath": "assets/img/items/60px-Spyglass.png"
+  },
+  {
+    "name": "Starfish(DLC)",
+    "effects": "+20% materials dropped from enemies\n+10 Harvesting\n+15 % Enemy damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/52/Starfish.png/60px-Starfish.png",
+    "imagePath": "assets/img/items/60px-Starfish.png"
+  },
+  {
+    "name": "Statue",
+    "effects": "+40 % Attack Speed while standing still\n-10 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/ba/Statue.png/60px-Statue.png",
+    "imagePath": "assets/img/items/60px-Statue.png"
+  },
+  {
+    "name": "Strange Book",
+    "effects": "+1 Engineering for every permanent 1 Elemental Damage you have\n-1 Melee Damage\n-1 Ranged Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/78/Strange_Book.png/60px-Strange_Book.png",
+    "imagePath": "assets/img/items/60px-Strange_Book.png"
+  },
+  {
+    "name": "Stone Skin",
+    "effects": "+1 Max HP for every permanent 1 Armor you have\n-6 % Attack Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/2d/Stone_Skin.png/60px-Stone_Skin.png",
+    "imagePath": "assets/img/items/60px-Stone_Skin.png"
+  },
+  {
+    "name": "Sunglasses",
+    "effects": "+10 % Crit Chance\n-1 Armor",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/92/Sunglasses.png/60px-Sunglasses.png",
+    "imagePath": "assets/img/items/60px-Sunglasses.png"
+  },
+  {
+    "name": "Sunken Bell(DLC)",
+    "effects": "Once per wave, you explode for 100 (+500%+500%+500%+500%) damage when you fall below 40% health",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/82/Sunken_Bell.png/60px-Sunken_Bell.png",
+    "imagePath": "assets/img/items/60px-Sunken_Bell.png"
+  },
+  {
+    "name": "Tardigrade",
+    "effects": "Nullifies the damage of one hit taken every wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/cd/Tardigrade.png/60px-Tardigrade.png",
+    "imagePath": "assets/img/items/60px-Tardigrade.png"
+  },
+  {
+    "name": "Tentacle",
+    "effects": "+3 % Crit Chance\n+20% chance to heal 1 HP when killing an enemy with a critical hit",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/54/Tentacle.png/60px-Tentacle.png",
+    "imagePath": "assets/img/items/60px-Tentacle.png"
+  },
+  {
+    "name": "Terrified Onion",
+    "effects": "+4 % Speed\n-5 Luck",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/11/Terrified_Onion.png/60px-Terrified_Onion.png",
+    "imagePath": "assets/img/items/60px-Terrified_Onion.png"
+  },
+  {
+    "name": "Toolbox",
+    "effects": "+6 Engineering\n-8 % Attack Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/46/Toolbox.png/60px-Toolbox.png",
+    "imagePath": "assets/img/items/60px-Toolbox.png"
+  },
+  {
+    "name": "Torture",
+    "effects": "+15 Max HP\nRestore 5 HP per second. Cannot heal any other way.",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e7/Torture.png/60px-Torture.png",
+    "imagePath": "assets/img/items/60px-Torture.png"
+  },
+  {
+    "name": "Toxic Sludge",
+    "effects": "+2 Elemental Damage\n-2 % Dodge",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/38/Toxic_Sludge.png/60px-Toxic_Sludge.png",
+    "imagePath": "assets/img/items/60px-Toxic_Sludge.png"
+  },
+  {
+    "name": "Tractor",
+    "effects": "+40 Harvesting\n-8 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/7a/Tractor.png/60px-Tractor.png",
+    "imagePath": "assets/img/items/60px-Tractor.png"
+  },
+  {
+    "name": "Treasure Map(DLC)",
+    "effects": "+20% chance of finding an extra item in a crate",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/25/Treasure_Map.png/60px-Treasure_Map.png",
+    "imagePath": "assets/img/items/60px-Treasure_Map.png"
+  },
+  {
+    "name": "Tree",
+    "effects": "More trees spawn",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/ac/Tree.png/60px-Tree.png",
+    "imagePath": "assets/img/items/60px-Tree.png"
+  },
+  {
+    "name": "Triangle of Power",
+    "effects": "+20 % Damage\n+1 Armor\n-2 % Damage when you take damage until the end of the wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/37/Triangle_of_Power.png/60px-Triangle_of_Power.png",
+    "imagePath": "assets/img/items/60px-Triangle_of_Power.png"
+  },
+  {
+    "name": "Turret",
+    "effects": "Spawns a turret that shoots bullets dealing 10 (+80%) damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/32/Turret.png/60px-Turret.png",
+    "imagePath": "assets/img/items/60px-Turret.png"
+  },
+  {
+    "name": "Tyler",
+    "effects": "Spawns a little guy that slowly shoots 10 piercing lightning projectiles around him for 10 (+75%+75%) damage each",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/bc/Tyler.png/60px-Tyler.png",
+    "imagePath": "assets/img/items/60px-Tyler.png"
+  },
+  {
+    "name": "Ugly Tooth",
+    "effects": "Hitting an enemy removes 5% of their speed. Max 20%\n-3 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e2/Ugly_Tooth.png/60px-Ugly_Tooth.png",
+    "imagePath": "assets/img/items/60px-Ugly_Tooth.png"
+  },
+  {
+    "name": "Vigilante Ring",
+    "effects": "+3 % Damage at the end of a wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/80/Vigilante_Ring.png/60px-Vigilante_Ring.png",
+    "imagePath": "assets/img/items/60px-Vigilante_Ring.png"
+  },
+  {
+    "name": "Wandering Bot",
+    "effects": "Spawns a little bot that slows down nearby enemies",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/fc/Wandering_Bot.png/60px-Wandering_Bot.png",
+    "imagePath": "assets/img/items/60px-Wandering_Bot.png"
+  },
+  {
+    "name": "Warrior Helmet",
+    "effects": "+3 Armor\n+5 Max HP\n-5 % Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/68/Warrior_Helmet.png/60px-Warrior_Helmet.png",
+    "imagePath": "assets/img/items/60px-Warrior_Helmet.png"
+  },
+  {
+    "name": "Weird Food",
+    "effects": "+2 HP recovered from consumables\n-2 % Dodge",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/bb/Weird_Food.png/60px-Weird_Food.png",
+    "imagePath": "assets/img/items/60px-Weird_Food.png"
+  },
+  {
+    "name": "Weird Ghost",
+    "effects": "+3 Max HP\nStart the next wave with 1 HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/4f/Weird_Ghost.png/60px-Weird_Ghost.png",
+    "imagePath": "assets/img/items/60px-Weird_Ghost.png"
+  },
+  {
+    "name": "Wheat",
+    "effects": "+4 Melee Damage\n+2 Ranged Damage\n+10 Harvesting\n-2 Elemental Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/e2/Wheat.png/60px-Wheat.png",
+    "imagePath": "assets/img/items/60px-Wheat.png"
+  },
+  {
+    "name": "Wheelbarrow",
+    "effects": "+16 Harvesting\n-1 Armor",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/4a/Wheelbarrow.png/60px-Wheelbarrow.png",
+    "imagePath": "assets/img/items/60px-Wheelbarrow.png"
+  },
+  {
+    "name": "Whetstone",
+    "effects": "+4 % Life Steal\n-3 Knockback",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/9f/Whetstone.png/60px-Whetstone.png",
+    "imagePath": "assets/img/items/60px-Whetstone.png"
+  },
+  {
+    "name": "Whistle(DLC)",
+    "effects": "+50% chance for loot aliens to appear\n+20% movement speed for loot aliens",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/18/Whistle.png/60px-Whistle.png",
+    "imagePath": "assets/img/items/60px-Whistle.png"
+  },
+  {
+    "name": "White Flag",
+    "effects": "+5 Harvesting\n-5% Enemies",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/43/White_Flag.png/60px-White_Flag.png",
+    "imagePath": "assets/img/items/60px-White_Flag.png"
+  },
+  {
+    "name": "Wings",
+    "effects": "+10 % Speed\n+30 Range\n-2 Elemental Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a8/Wings.png/60px-Wings.png",
+    "imagePath": "assets/img/items/60px-Wings.png"
+  },
+  {
+    "name": "Wisdom",
+    "effects": "+5 % Damage every 5 seconds until the end of the wave\n-15 % Damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/8a/Wisdom.png/60px-Wisdom.png",
+    "imagePath": "assets/img/items/60px-Wisdom.png"
+  },
+  {
+    "name": "Wolf Helmet",
+    "effects": "+10 Elemental Damage\n+20 Luck\n-5 Engineering",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/35/Wolf_Helmet.png/60px-Wolf_Helmet.png",
+    "imagePath": "assets/img/items/60px-Wolf_Helmet.png"
+  }
+]

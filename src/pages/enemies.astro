@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/Layout.astro';
+import enemies from '../../public/assets/jsons/enemies.json';
+---
+
+<BaseLayout title="Enemies">
+	<section class="section-header">
+		<h1>Enemies</h1>
+		<p>Discover all enemy types in Brotato and their stats.</p>
+	  </section>
+	<div class="bt-card-list">
+		{enemies.map((enemy) => (
+			<div class="bt-card">
+				<h1 class="text-center font-bold">{enemy.name}</h2>
+				<p class="bt-card-description">{enemy.behavior ? enemy.behavior : 'No description available for this enemy.'}</p>
+				<div class="flex items-center bt-card-content">
+					<div class="flex justify-center items-center">
+						<img src={`/${enemy.imagePath}`} width="100" alt={enemy.name} />
+					</div>
+					<div class="statGrid">
+						<span>❤️ Health</span><span>{enemy.health} (+{enemy.hpPerWave})</span>
+						<span>💢 Damage</span><span>{enemy.damage} (+{enemy.damagePerWave})</span>
+						<span>🛡️ Armor</span><span>{enemy.armor ?? 0} (+{enemy.armorPerWave ?? 0})</span>
+						<span>🌀 Knockback</span><span>{enemy.knockbackResistance ?? 0}</span>
+						<span>⚡ Speed</span><span>{enemy.speed}</span>
+						<span>🔧 Materials</span><span>{enemy.materialsDropped ?? 0}</span>
+						<span>🍗 Drop</span><span>{enemy.consumableDropRate}</span>
+						<span>📦 Crate</span><span>{enemy.lootCrateDropRate}</span>
+					</div>
+				</div>
+			</div>
+		))}
+	</div>
+</BaseLayout>

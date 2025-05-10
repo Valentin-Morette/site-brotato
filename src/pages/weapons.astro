@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/Layout.astro';
+import weapons from '../../public/assets/jsons/weapons.json';
+import WeaponStatSection from '../components/WeaponStatsSection.astro';
+---
+
+<BaseLayout title="Weapons">
+<section class="section-header">
+  <h1>Weapons</h1>
+  <p>All weapons you can find in Brotato.</p>
+</section>
+<div class="bt-card-list">
+  {weapons.map((weapon) => (
+      <div class="bt-card">
+          <div class="flex justify-center items-center mb-4">
+              <h1 class="text-center font-bold">{weapon.name}</h1>
+              <img src={`/${weapon.imagePath}`} width="40" alt={weapon.name} />
+          </div>
+          <p class="text-center mb-2">{weapon.class}</p>
+          <WeaponStatSection color="white" weapon={weapon} />
+          <WeaponStatSection color="blue" weapon={weapon} />
+          <WeaponStatSection color="purple" weapon={weapon} />
+          <WeaponStatSection color="red" weapon={weapon} />
+          <p class="mt-2">Special Effect : {weapon.specialEffect}</p>
+      </div>
+  ))}
+</div>
+</BaseLayout>

@@ -1,0 +1,23 @@
+---
+import ReplaceWithImages from '../components/ReplaceWithImages.astro';  // Import du composant
+
+const { color, weapon } = Astro.props; // Récupérer la couleur et les données de l'arme
+---
+
+<div class={`colorarrity-${color} mb-2`}>
+  <p class="text-center flex">
+    Damage: <ReplaceWithImages text={weapon.damage[color]} />
+  </p>
+  <p class="text-center flex">
+    AttackSpeed: <ReplaceWithImages text={weapon.attackSpeed[color]} />
+  </p>
+  <p class="text-center flex">
+    CritChance: <ReplaceWithImages text={weapon.critChance[color]} />
+  </p>
+  <p class="text-center flex">
+    Knockback: <ReplaceWithImages text={weapon.knockback[color]} />
+  </p>
+  <p class="text-center flex">
+    Lifesteal: <ReplaceWithImages text={weapon.lifesteal[color]} />
+  </p>
+</div>

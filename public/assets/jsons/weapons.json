@@ -1,0 +1,4188 @@
+[
+  {
+    "name": "Anchor(DLC)",
+    "class": "Naval, Heavy",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "45(+100%+65%){Melee_Damage}{Curse}"
+      ],
+      "purple": [
+        "70(+125%+90%){Melee_Damage}{Curse}"
+      ],
+      "red": [
+        "110(+150%+125%){Melee_Damage}{Curse}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "1.92s"
+      ],
+      "purple": [
+        "1.86s"
+      ],
+      "red": [
+        "1.81s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "x1.5 (3% chance)"
+      ],
+      "purple": [
+        "x1.5 (3% chance)"
+      ],
+      "red": [
+        "x1.5 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "175"
+      ],
+      "purple": [
+        "200"
+      ],
+      "red": [
+        "225"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "10"
+      ],
+      "purple": [
+        "10"
+      ],
+      "red": [
+        "10"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "-",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c0/Anchor.png/60px-Anchor.png",
+    "imagePath": "assets/img/weapons/60px-Anchor.png"
+  },
+  {
+    "name": "Brick(DLC)",
+    "class": "Blunt",
+    "damage": {
+      "white": [
+        "30(+50%+50%){Melee_Damage}{Engineering_Stat}"
+      ],
+      "blue": [
+        "60(+65%+65%){Melee_Damage}{Engineering_Stat}"
+      ],
+      "purple": [
+        "90(+80%+80%){Melee_Damage}{Engineering_Stat}"
+      ],
+      "red": [
+        "120(+100%+100%){Melee_Damage}{Engineering_Stat}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.39s"
+      ],
+      "blue": [
+        "1.39s"
+      ],
+      "purple": [
+        "1.39s"
+      ],
+      "red": [
+        "1.39s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.5 (3% chance)"
+      ],
+      "blue": [
+        "x1.5 (3% chance)"
+      ],
+      "purple": [
+        "x1.5 (3% chance)"
+      ],
+      "red": [
+        "x1.5 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "5"
+      ],
+      "blue": [
+        "5"
+      ],
+      "purple": [
+        "5"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Has a 1% chance to break and drop 10/30/60/120 materials on hit",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/58/Brick.png/60px-Brick.png",
+    "imagePath": "assets/img/weapons/60px-Brick.png"
+  },
+  {
+    "name": "Cacti Club",
+    "class": "Primitive, Heavy",
+    "damage": {
+      "white": [
+        "10(80%){Melee_Damage}"
+      ],
+      "blue": [
+        "20(85%){Melee_Damage}"
+      ],
+      "purple": [
+        "30(90%){Melee_Damage}"
+      ],
+      "red": [
+        "50(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.66s"
+      ],
+      "blue": [
+        "1.58s"
+      ],
+      "purple": [
+        "1.51s"
+      ],
+      "red": [
+        "1.36s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3%)"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "200"
+      ],
+      "blue": [
+        "200"
+      ],
+      "purple": [
+        "200"
+      ],
+      "red": [
+        "200"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "8"
+      ],
+      "blue": [
+        "8"
+      ],
+      "purple": [
+        "8"
+      ],
+      "red": [
+        "8"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Hitting an enemy spawns 3/4/5/6 projectiles dealing 50%/60%/70%/80% damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a1/Cacti_Club.png/60px-Cacti_Club.png",
+    "imagePath": "assets/img/weapons/60px-Cacti_Club.png"
+  },
+  {
+    "name": "Captain's Sword(DLC)",
+    "class": "Naval, Blade",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "50(+100%+100%){Melee_Damage}{Curse}"
+      ],
+      "red": [
+        "80(+125%+125%){Melee_Damage}{Curse}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "1.03s"
+      ],
+      "red": [
+        "0.95s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "x2 (3% chance)"
+      ],
+      "red": [
+        "x2 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "200"
+      ],
+      "red": [
+        "200"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "5"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Alternates between thrusting and sweeping attacks\nDeals +25/+50 Damage for every free weapon slot you have.",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b7/Captain%27s_Sword.png/60px-Captain%27s_Sword.png",
+    "imagePath": "assets/img/weapons/60px-Captain%27s_Sword.png"
+  },
+  {
+    "name": "Chainsaw(DLC)",
+    "class": "Blade, Tool",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "10(+75%+75%+75%){Melee_Damage}{Engineering_Stat}{Life_Steal}"
+      ],
+      "red": [
+        "20(+100%+100%+100%){Melee_Damage}{Engineering_Stat}{Life_Steal}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "0.53s"
+      ],
+      "red": [
+        "0.56s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "x1.5 (3% chance)"
+      ],
+      "red": [
+        "x1.5 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "175"
+      ],
+      "red": [
+        "200"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "15%"
+      ],
+      "red": [
+        "30%"
+      ]
+    },
+    "specialEffect": "Cooldown is 1.83s/1.52s every 30/40 shots\nDeals 10%/20% of an enemy’s current health as bonus damage (1%/2% for bosses and elites)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/cc/Chainsaw.png/60px-Chainsaw.png",
+    "imagePath": "assets/img/weapons/60px-Chainsaw.png"
+  },
+  {
+    "name": "Chopper",
+    "class": "Blade",
+    "damage": {
+      "white": [
+        "6(50%15%){Melee_Damage}{Max_HP}"
+      ],
+      "blue": [
+        "12(50%20%){Melee_Damage}{Max_HP}"
+      ],
+      "purple": [
+        "18(50%25%){Melee_Damage}{Max_HP}"
+      ],
+      "red": [
+        "30(50%30%){Melee_Damage}{Max_HP}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "0.99s"
+      ],
+      "blue": [
+        "0.99s"
+      ],
+      "purple": [
+        "0.96s"
+      ],
+      "red": [
+        "0.89s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (10%)"
+      ],
+      "blue": [
+        "x2 (15%)"
+      ],
+      "purple": [
+        "x2 (20%)"
+      ],
+      "red": [
+        "x2 (25%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "135"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "165"
+      ],
+      "red": [
+        "180"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+1/+1/+1/+2 health healed from consumables",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a6/Chopper.png/60px-Chopper.png",
+    "imagePath": "assets/img/weapons/60px-Chopper.png"
+  },
+  {
+    "name": "Circular Saw",
+    "class": "Blade, Medical",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "10(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "15(100%){Melee_Damage}"
+      ],
+      "red": [
+        "25(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0.72s"
+      ],
+      "purple": [
+        "0.67s"
+      ],
+      "red": [
+        "0.62s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "x2 (5%)"
+      ],
+      "purple": [
+        "x2 (10%)"
+      ],
+      "red": [
+        "x2 (20%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "175"
+      ],
+      "purple": [
+        "175"
+      ],
+      "red": [
+        "175"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "45%"
+      ],
+      "purple": [
+        "50%"
+      ],
+      "red": [
+        "60%"
+      ]
+    },
+    "specialEffect": "",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c7/Circular_Saw.png/60px-Circular_Saw.png",
+    "imagePath": "assets/img/weapons/60px-Circular_Saw.png"
+  },
+  {
+    "name": "Claw",
+    "class": "Unarmed, Precise",
+    "damage": {
+      "white": [
+        "5(15%50%){Attack_Speed}{Melee_Damage}"
+      ],
+      "blue": [
+        "10(20%50%){Attack_Speed}{Melee_Damage}"
+      ],
+      "purple": [
+        "15(25%50%){Attack_Speed}{Melee_Damage}"
+      ],
+      "red": [
+        "25(30%50%){Attack_Speed}{Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "0.78s"
+      ],
+      "blue": [
+        "0.74s"
+      ],
+      "purple": [
+        "0.69s"
+      ],
+      "red": [
+        "0.61s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (10%)"
+      ],
+      "blue": [
+        "x2.15 (15%)"
+      ],
+      "purple": [
+        "x2.3 (20%)"
+      ],
+      "red": [
+        "x2.5 (25%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "-",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/47/Claw.png/60px-Claw.png",
+    "imagePath": "assets/img/weapons/60px-Claw.png"
+  },
+  {
+    "name": "DEX-troyer",
+    "class": "Legendary, Explosive",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "100(+100%+100%){Melee_Damage}{Engineering_Stat}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "1.33s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "x2 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "400"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "10"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "50% chance to explode on hit\nHitting an enemy spawns a lightning projectile that bounces 5 times and deals 30 (+100%) damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/3c/DEX-troyer.png/60px-DEX-troyer.png",
+    "imagePath": "assets/img/weapons/60px-DEX-troyer.png"
+  },
+  {
+    "name": "Drill",
+    "class": "Legendary, Precise",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "10(100%100%){Melee_Damage}{Engineering_Stat}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "0.45s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "x2.5 (50%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "100"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "100% chance to gain 1 material when killing an enemy with a critical hit.\n+10 % Attack Speed every 5 seconds until the end of the wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/88/Drill.png/60px-Drill.png",
+    "imagePath": "assets/img/weapons/60px-Drill.png"
+  },
+  {
+    "name": "Excalibur",
+    "class": "Legendary, Blade",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "200(200%200%){Melee_Damage}{Max_HP}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "0.66s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "x2.5 (10%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "200"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Alternates between thrusting and sweeping attacks.\n-3 Armor for every weapon you have",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/f/fa/Excalibur.png/60px-Excalibur.png",
+    "imagePath": "assets/img/weapons/60px-Excalibur.png"
+  },
+  {
+    "name": "Fist",
+    "class": "Unarmed",
+    "damage": {
+      "white": [
+        "8(100%){Melee_Damage}"
+      ],
+      "blue": [
+        "16(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "32(100%){Melee_Damage}"
+      ],
+      "red": [
+        "64(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "0.78s"
+      ],
+      "blue": [
+        "0.73s"
+      ],
+      "purple": [
+        "0.69s"
+      ],
+      "red": [
+        "0.59s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.5 (1%)"
+      ],
+      "blue": [
+        "x1.5 (1%)"
+      ],
+      "purple": [
+        "x1.5 (1%)"
+      ],
+      "red": [
+        "x1.5 (1%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "15"
+      ],
+      "blue": [
+        "15"
+      ],
+      "purple": [
+        "15"
+      ],
+      "red": [
+        "15"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/17/Fist.png/60px-Fist.png",
+    "imagePath": "assets/img/weapons/60px-Fist.png"
+  },
+  {
+    "name": "Flaming Brass Knuckles",
+    "class": "Unarmed, Elemental",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "16(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "32(100%){Melee_Damage}"
+      ],
+      "red": [
+        "64(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0.73s"
+      ],
+      "purple": [
+        "0.69s"
+      ],
+      "red": [
+        "0.59s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "x1.5 (1%)"
+      ],
+      "purple": [
+        "x1.5 (1%)"
+      ],
+      "red": [
+        "x1.5 (1%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "15"
+      ],
+      "purple": [
+        "15"
+      ],
+      "red": [
+        "15"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Deals -/8x5/12x6/15x7(100%) burning damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/cf/Flaming_Brass_Knuckles.png/60px-Flaming_Brass_Knuckles.png",
+    "imagePath": "assets/img/weapons/60px-Flaming_Brass_Knuckles.png"
+  },
+  {
+    "name": "Ghost Axe",
+    "class": "Ethereal",
+    "damage": {
+      "white": [
+        "12(100%){Melee_Damage}"
+      ],
+      "blue": [
+        "18(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "24(100%){Melee_Damage}"
+      ],
+      "red": [
+        "40(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.73s"
+      ],
+      "blue": [
+        "1.66s"
+      ],
+      "purple": [
+        "1.58s"
+      ],
+      "red": [
+        "1.51s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3%)"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "200"
+      ],
+      "blue": [
+        "200"
+      ],
+      "purple": [
+        "200"
+      ],
+      "red": [
+        "200"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+1% Damage for every 20/18/16/12 kills in a wave with this weapon",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/3/3a/Ghost_Axe.png/60px-Ghost_Axe.png",
+    "imagePath": "assets/img/weapons/60px-Ghost_Axe.png"
+  },
+  {
+    "name": "Ghost Flint",
+    "class": "Ethereal",
+    "damage": {
+      "white": [
+        "6(100%){Melee_Damage}"
+      ],
+      "blue": [
+        "9(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "12(100%){Melee_Damage}"
+      ],
+      "red": [
+        "18(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.23s"
+      ],
+      "blue": [
+        "1.17s"
+      ],
+      "purple": [
+        "1.1s"
+      ],
+      "red": [
+        "1.04s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3%)"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "160"
+      ],
+      "purple": [
+        "170"
+      ],
+      "red": [
+        "180"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+1% Attack Speed for every 20/18/16/12 kills in a wave with this weapon",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b4/Ghost_Flint.png/60px-Ghost_Flint.png",
+    "imagePath": "assets/img/weapons/60px-Ghost_Flint.png"
+  },
+  {
+    "name": "Hammer",
+    "class": "Blunt, Heavy",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "35(150%){Melee_Damage}"
+      ],
+      "purple": [
+        "70(175%){Melee_Damage}"
+      ],
+      "red": [
+        "110(200%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "1.67s"
+      ],
+      "purple": [
+        "1.59s"
+      ],
+      "red": [
+        "1.5s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "x1.75 (3%)"
+      ],
+      "purple": [
+        "x1.75 (3%)"
+      ],
+      "red": [
+        "x1.75 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "175"
+      ],
+      "purple": [
+        "175"
+      ],
+      "red": [
+        "175"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "30"
+      ],
+      "purple": [
+        "40"
+      ],
+      "red": [
+        "50"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+2/+4/+6 Knockback",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/81/Hammer.png/60px-Hammer.png",
+    "imagePath": "assets/img/weapons/60px-Hammer.png"
+  },
+  {
+    "name": "Hand",
+    "class": "Unarmed, Support",
+    "damage": {
+      "white": [
+        "1(50%){Melee_Damage}"
+      ],
+      "blue": [
+        "1(50%){Melee_Damage}"
+      ],
+      "purple": [
+        "1(50%){Melee_Damage}"
+      ],
+      "red": [
+        "1(50%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.01s"
+      ],
+      "blue": [
+        "0.93s"
+      ],
+      "purple": [
+        "0.86s"
+      ],
+      "red": [
+        "0.71s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.5 (1%)"
+      ],
+      "blue": [
+        "x1.5 (1%)"
+      ],
+      "purple": [
+        "x1.5 (1%)"
+      ],
+      "red": [
+        "x1.5 (1%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "30"
+      ],
+      "blue": [
+        "30"
+      ],
+      "purple": [
+        "30"
+      ],
+      "red": [
+        "30"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+3/+6/+9/+18 Harvesting",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/a7/Hand.png/60px-Hand.png",
+    "imagePath": "assets/img/weapons/60px-Hand.png"
+  },
+  {
+    "name": "Hatchet",
+    "class": "Primitive",
+    "damage": {
+      "white": [
+        "5(100%15%){Melee_Damage}{Attack_Speed}"
+      ],
+      "blue": [
+        "10(100%15%){Melee_Damage}{Attack_Speed}"
+      ],
+      "purple": [
+        "20(100%15%){Melee_Damage}{Attack_Speed}"
+      ],
+      "red": [
+        "40(100%15%){Melee_Damage}{Attack_Speed}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "0.68s"
+      ],
+      "blue": [
+        "0.65s"
+      ],
+      "purple": [
+        "0.62s"
+      ],
+      "red": [
+        "0.58s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3%)"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "125"
+      ],
+      "blue": [
+        "125"
+      ],
+      "purple": [
+        "125"
+      ],
+      "red": [
+        "125"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/e/ef/Hatchet.png/60px-Hatchet.png",
+    "imagePath": "assets/img/weapons/60px-Hatchet.png"
+  },
+  {
+    "name": "Hiking Pole(DLC)",
+    "class": "Support",
+    "damage": {
+      "white": [
+        "12(+50%+10%){Melee_Damage}{Range_Stat}"
+      ],
+      "blue": [
+        "18(+50%+12%){Melee_Damage}{Range_Stat}"
+      ],
+      "purple": [
+        "24(+50%+15%){Melee_Damage}{Range_Stat}"
+      ],
+      "red": [
+        "30(+50%+20%){Melee_Damage}{Range_Stat}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.42s"
+      ],
+      "blue": [
+        "1.34s"
+      ],
+      "purple": [
+        "1.25s"
+      ],
+      "red": [
+        "1.17s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.5 (3% chance)"
+      ],
+      "blue": [
+        "x1.5 (3% chance)"
+      ],
+      "purple": [
+        "x1.5 (3% chance)"
+      ],
+      "red": [
+        "x1.5 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "175"
+      ],
+      "blue": [
+        "175"
+      ],
+      "purple": [
+        "175"
+      ],
+      "red": [
+        "175"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+1 Range for every 70/60/50/40 steps you take during a wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/2d/Hiking_Pole.png/60px-Hiking_Pole.png",
+    "imagePath": "assets/img/weapons/60px-Hiking_Pole.png"
+  },
+  {
+    "name": "Jousting Lance",
+    "class": "Medieval",
+    "damage": {
+      "white": [
+        "20(50%30%){Melee_Damage}{Speed_Stat}"
+      ],
+      "blue": [
+        "25(50%35%){Melee_Damage}{Speed_Stat}"
+      ],
+      "purple": [
+        "30(50%40%){Melee_Damage}{Speed_Stat}"
+      ],
+      "red": [
+        "50(50%50%){Melee_Damage}{Speed_Stat}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.58s"
+      ],
+      "blue": [
+        "1.5s"
+      ],
+      "purple": [
+        "1.42s"
+      ],
+      "red": [
+        "1.33s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3%)"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "250"
+      ],
+      "blue": [
+        "250"
+      ],
+      "purple": [
+        "250"
+      ],
+      "red": [
+        "250"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+2/+3/+4/+5 % Speed\n-10/-15/-20/-25 % Damage while standing still",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/c4/Jousting_Lance.png/60px-Jousting_Lance.png",
+    "imagePath": "assets/img/weapons/60px-Jousting_Lance.png"
+  },
+  {
+    "name": "Knife",
+    "class": "Precise",
+    "damage": {
+      "white": [
+        "6(80%){Melee_Damage}"
+      ],
+      "blue": [
+        "9(80%){Melee_Damage}"
+      ],
+      "purple": [
+        "12(80%){Melee_Damage}"
+      ],
+      "red": [
+        "20(80%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.01s"
+      ],
+      "blue": [
+        "0.93s"
+      ],
+      "purple": [
+        "0.86s"
+      ],
+      "red": [
+        "0.78s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2.5 (20%)"
+      ],
+      "blue": [
+        "x3 (30%)"
+      ],
+      "purple": [
+        "x3.5 (40%)"
+      ],
+      "red": [
+        "x4 (50%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/58/Knife.png/60px-Knife.png",
+    "imagePath": "assets/img/weapons/60px-Knife.png"
+  },
+  {
+    "name": "Lightning Shiv",
+    "class": "Precise, Elemental",
+    "damage": {
+      "white": [
+        "3(80%){Melee_Damage}"
+      ],
+      "blue": [
+        "6(80%){Melee_Damage}"
+      ],
+      "purple": [
+        "9(80%){Melee_Damage}"
+      ],
+      "red": [
+        "15(80%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.01s"
+      ],
+      "blue": [
+        "0.93s"
+      ],
+      "purple": [
+        "0.86s"
+      ],
+      "red": [
+        "0.78s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (4%)"
+      ],
+      "blue": [
+        "x2 (6%)"
+      ],
+      "purple": [
+        "x2 (8%)"
+      ],
+      "red": [
+        "x2 (10%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Hitting an enemy spawns a lightning projectile flying towards another random enemy that bounces -/1/2/3 times and inflicts 5/6/8/11 + (80%) damage",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/d/d1/Lightning_Shiv.png/60px-Lightning_Shiv.png",
+    "imagePath": "assets/img/weapons/60px-Lightning_Shiv.png"
+  },
+  {
+    "name": "Lute(DLC)",
+    "class": "Musical, Support",
+    "damage": {
+      "white": [
+        "4(+50%+10%){Melee_Damage}{Luck}"
+      ],
+      "blue": [
+        "8(+50%+15%){Melee_Damage}{Luck}"
+      ],
+      "purple": [
+        "12(+50%+20%){Melee_Damage}{Luck}"
+      ],
+      "red": [
+        "16(+50%+25%){Melee_Damage}{Luck}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.31s"
+      ],
+      "blue": [
+        "1.25s"
+      ],
+      "purple": [
+        "1.2s"
+      ],
+      "red": [
+        "1.14s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.5 (3% chance)"
+      ],
+      "blue": [
+        "x1.5 (3% chance)"
+      ],
+      "purple": [
+        "x1.5 (3% chance)"
+      ],
+      "red": [
+        "x1.5 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "175"
+      ],
+      "purple": [
+        "200"
+      ],
+      "red": [
+        "225"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Enemies hit take 10% more damage for 3 seconds (max: 30%/50%/70%/100%)",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/57/Lute.png/60px-Lute.png",
+    "imagePath": "assets/img/weapons/60px-Lute.png"
+  },
+  {
+    "name": "Mace(DLC)",
+    "class": "Heavy, Medieval",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "40(+100%-50%){Melee_Damage}{Attack_Speed}"
+      ],
+      "purple": [
+        "60(+100%-75%){Melee_Damage}{Attack_Speed}"
+      ],
+      "red": [
+        "100(+100%-100%){Melee_Damage}{Attack_Speed}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "1.39s"
+      ],
+      "purple": [
+        "1.31s"
+      ],
+      "red": [
+        "1.23s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "x1.5 (3% chance)"
+      ],
+      "purple": [
+        "x1.5 (3% chance)"
+      ],
+      "red": [
+        "x1.5 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "5"
+      ],
+      "purple": [
+        "5"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "-3%/-6%/-10% Attack Speed",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/6/63/Mace.png/60px-Mace.png",
+    "imagePath": "assets/img/weapons/60px-Mace.png"
+  },
+  {
+    "name": "Plank",
+    "class": "Explosive, Elemental",
+    "damage": {
+      "white": [
+        "10(50%50%50%){Melee_Damage}{Elemental_Damage}{Engineering_Stat}"
+      ],
+      "blue": [
+        "15(60%60%60%){Melee_Damage}{Elemental_Damage}{Engineering_Stat}"
+      ],
+      "purple": [
+        "20(70%70%70%){Melee_Damage}{Elemental_Damage}{Engineering_Stat}"
+      ],
+      "red": [
+        "25(80%80%80%){Melee_Damage}{Elemental_Damage}{Engineering_Stat}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.23s"
+      ],
+      "blue": [
+        "1.14s"
+      ],
+      "purple": [
+        "1.06s"
+      ],
+      "red": [
+        "0.98s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3%)"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "5"
+      ],
+      "blue": [
+        "5"
+      ],
+      "purple": [
+        "5"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Hits have 25%/30%/35%/40% chance to explode.",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/0d/Plank.png/60px-Plank.png",
+    "imagePath": "assets/img/weapons/60px-Plank.png"
+  },
+  {
+    "name": "Plasma Sledge",
+    "class": "Elemental, Explosive",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "80(150%150%){Melee_Damage}{Elemental_Damage}"
+      ],
+      "red": [
+        "120(200%200%){Melee_Damage}{Elemental_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "1.55s"
+      ],
+      "red": [
+        "1.49s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "x1.75 (3%)"
+      ],
+      "red": [
+        "x1.75 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "175"
+      ],
+      "red": [
+        "175"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "30"
+      ],
+      "red": [
+        "30"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Hits have 25%/50% chance to explode.",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/47/Plasma_Sledge.png/60px-Plasma_Sledge.png",
+    "imagePath": "assets/img/weapons/60px-Plasma_Sledge.png"
+  },
+  {
+    "name": "Power Fist",
+    "class": "Unarmed, Explosive",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "40(100%){Melee_Damage}"
+      ],
+      "red": [
+        "60(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "0.69s"
+      ],
+      "red": [
+        "0.59s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "x1.5 (1%)"
+      ],
+      "red": [
+        "x1.5 (1%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "15"
+      ],
+      "red": [
+        "15"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Hits have 25%/50% chance to explode.",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/98/Power_Fist.png/60px-Power_Fist.png",
+    "imagePath": "assets/img/weapons/60px-Power_Fist.png"
+  },
+  {
+    "name": "Pruner",
+    "class": "Support",
+    "damage": {
+      "white": [
+        "10(50%){Melee_Damage}"
+      ],
+      "blue": [
+        "15(65%){Melee_Damage}"
+      ],
+      "purple": [
+        "20(80%){Melee_Damage}"
+      ],
+      "red": [
+        "25(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.14s"
+      ],
+      "blue": [
+        "1.06s"
+      ],
+      "purple": [
+        "0.98s"
+      ],
+      "red": [
+        "0.89s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.25 (3%)"
+      ],
+      "blue": [
+        "x1.5 (6%)"
+      ],
+      "purple": [
+        "x1.75 (9%)"
+      ],
+      "red": [
+        "x2 (12%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Spawns a garden that creates a fruit every 15/14/12/10 seconds",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/20/Pruner.png/60px-Pruner.png",
+    "imagePath": "assets/img/weapons/60px-Pruner.png"
+  },
+  {
+    "name": "Quarterstaff",
+    "class": "Primitive, Medieval",
+    "damage": {
+      "white": [
+        "10(75%50%){Level}{Melee_Damage}"
+      ],
+      "blue": [
+        "15(85%65%){Level}{Melee_Damage}"
+      ],
+      "purple": [
+        "20(100%85%){Level}{Melee_Damage}"
+      ],
+      "red": [
+        "30(125%100%){Level}{Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.42s"
+      ],
+      "blue": [
+        "1.25s"
+      ],
+      "purple": [
+        "1.09s"
+      ],
+      "red": [
+        "0.92s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.5 (3%)"
+      ],
+      "blue": [
+        "x1.5 (3%)"
+      ],
+      "purple": [
+        "x1.5 (3%)"
+      ],
+      "red": [
+        "x1.5 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "175"
+      ],
+      "blue": [
+        "175"
+      ],
+      "purple": [
+        "175"
+      ],
+      "red": [
+        "175"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Alternates between thrusting and sweeping attacks\n+2% XP Gain/+5% XP Gain/+9% XP Gain/+15% XP Gain",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/85/Quarterstaff.png/60px-Quarterstaff.png",
+    "imagePath": "assets/img/weapons/60px-Quarterstaff.png"
+  },
+  {
+    "name": "Rock",
+    "class": "Primitive, Blunt",
+    "damage": {
+      "white": [
+        "20(100%){Melee_Damage}"
+      ],
+      "blue": [
+        "35(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "50(100%){Melee_Damage}"
+      ],
+      "red": [
+        "70(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.68s"
+      ],
+      "blue": [
+        "1.61s"
+      ],
+      "purple": [
+        "1.53s"
+      ],
+      "red": [
+        "1.46s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.5 (10%)"
+      ],
+      "blue": [
+        "x1.5 (15%)"
+      ],
+      "purple": [
+        "x1.5 (20%)"
+      ],
+      "red": [
+        "x1.5 (25%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "5"
+      ],
+      "blue": [
+        "5"
+      ],
+      "purple": [
+        "5"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "-/+1 Armor/+1 Armor, +2 Max HP/+2 Armor, +2 Max HP",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/0b/Rock.png/60px-Rock.png",
+    "imagePath": "assets/img/weapons/60px-Rock.png"
+  },
+  {
+    "name": "Scissors",
+    "class": "Medical, Precise",
+    "damage": {
+      "white": [
+        "5(80%){Melee_Damage}"
+      ],
+      "blue": [
+        "10(80%){Melee_Damage}"
+      ],
+      "purple": [
+        "15(80%){Melee_Damage}"
+      ],
+      "red": [
+        "20(80%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.01s"
+      ],
+      "blue": [
+        "0.98s"
+      ],
+      "purple": [
+        "0.94s"
+      ],
+      "red": [
+        "0.86s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (10%)"
+      ],
+      "blue": [
+        "x2.15 (12%)"
+      ],
+      "purple": [
+        "x2.3 (15%)"
+      ],
+      "red": [
+        "x2.5 (20%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "40%"
+      ],
+      "blue": [
+        "45%"
+      ],
+      "purple": [
+        "50%"
+      ],
+      "red": [
+        "60%"
+      ]
+    },
+    "specialEffect": "",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/92/Scissors.png/60px-Scissors.png",
+    "imagePath": "assets/img/weapons/60px-Scissors.png"
+  },
+  {
+    "name": "Screwdriver",
+    "class": "Tool",
+    "damage": {
+      "white": [
+        "8(50%50%){Melee_Damage}{Engineering_Stat}"
+      ],
+      "blue": [
+        "12(50%50%){Melee_Damage}{Engineering_Stat}"
+      ],
+      "purple": [
+        "16(50%50%){Melee_Damage}{Engineering_Stat}"
+      ],
+      "red": [
+        "20(50%50%){Melee_Damage}{Engineering_Stat}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.05s"
+      ],
+      "blue": [
+        "1.0s"
+      ],
+      "purple": [
+        "0.97s"
+      ],
+      "red": [
+        "0.87s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (10%)"
+      ],
+      "blue": [
+        "x2 (15%)"
+      ],
+      "purple": [
+        "x2 (20%)"
+      ],
+      "red": [
+        "x2 (30%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "125"
+      ],
+      "blue": [
+        "125"
+      ],
+      "purple": [
+        "125"
+      ],
+      "red": [
+        "125"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "3"
+      ],
+      "blue": [
+        "3"
+      ],
+      "purple": [
+        "3"
+      ],
+      "red": [
+        "3"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "A landmine spawns every 12s/9s/6s/3s dealing 10(100%) damage in an area",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/1/1d/Screwdriver.png/60px-Screwdriver.png",
+    "imagePath": "assets/img/weapons/60px-Screwdriver.png"
+  },
+  {
+    "name": "Scythe",
+    "class": "Legendary, Ethereal",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "150(150%100%){Melee_Damage}{Life_Steal}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "0.72s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "250"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "-"
+      ],
+      "red": [
+        "100%"
+      ]
+    },
+    "specialEffect": "You take 3 damage per second (does not give invulnerability time).\n+3 % Damage when you take damage until the end of the wave",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/c/cd/Scythe.png/60px-Scythe.png",
+    "imagePath": "assets/img/weapons/60px-Scythe.png"
+  },
+  {
+    "name": "Sharp Tooth",
+    "class": "Primitive, Precise",
+    "damage": {
+      "white": [
+        "5(+50%+50%){Melee_Damage}{Life_Steal}"
+      ],
+      "blue": [
+        "8(+50%+65%){Melee_Damage}{Life_Steal}"
+      ],
+      "purple": [
+        "11(+50%+80%){Melee_Damage}{Life_Steal}"
+      ],
+      "red": [
+        "15(+50%+100%){Melee_Damage}{Life_Steal}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.14s"
+      ],
+      "blue": [
+        "1.07s"
+      ],
+      "purple": [
+        "1s"
+      ],
+      "red": [
+        "0.93s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3% chance)"
+      ],
+      "blue": [
+        "x2.15 (6% chance)"
+      ],
+      "purple": [
+        "x2.3 (9% chance)"
+      ],
+      "red": [
+        "x2.5 (12% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "160"
+      ],
+      "purple": [
+        "170"
+      ],
+      "red": [
+        "180"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+1 % Life Steal for every 25%/20%/15%/10% of missing health",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/af/Sharp_Tooth.png/60px-Sharp_Tooth.png",
+    "imagePath": "assets/img/weapons/60px-Sharp_Tooth.png"
+  },
+  {
+    "name": "Sickle(DLC)",
+    "class": "Support",
+    "damage": {
+      "white": [
+        "5(+80%+10%){Melee_Damage}{Harvesting}"
+      ],
+      "blue": [
+        "8(+80%+15%){Melee_Damage}{Harvesting}"
+      ],
+      "purple": [
+        "12(+80%+20%){Melee_Damage}{Harvesting}"
+      ],
+      "red": [
+        "15(+80%+25%){Melee_Damage}{Harvesting}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "0.87s"
+      ],
+      "blue": [
+        "0.82s"
+      ],
+      "purple": [
+        "0.77s"
+      ],
+      "red": [
+        "0.7s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3% chance)"
+      ],
+      "blue": [
+        "x2 (3% chance)"
+      ],
+      "purple": [
+        "x2 (3% chance)"
+      ],
+      "red": [
+        "x2 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "125"
+      ],
+      "blue": [
+        "125"
+      ],
+      "purple": [
+        "125"
+      ],
+      "red": [
+        "125"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+20%/+30%/+40%/+50% damage against targets below 30% health",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/0/02/Sickle.png/60px-Sickle.png",
+    "imagePath": "assets/img/weapons/60px-Sickle.png"
+  },
+  {
+    "name": "Spear",
+    "class": "Primitive",
+    "damage": {
+      "white": [
+        "15(100%){Melee_Damage}"
+      ],
+      "blue": [
+        "25(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "40(100%){Melee_Damage}"
+      ],
+      "red": [
+        "60(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.52s"
+      ],
+      "blue": [
+        "1.4s"
+      ],
+      "purple": [
+        "1.28s"
+      ],
+      "red": [
+        "1.24s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3%)"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "350"
+      ],
+      "blue": [
+        "375"
+      ],
+      "purple": [
+        "400"
+      ],
+      "red": [
+        "500"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/4f/Spear.png/60px-Spear.png",
+    "imagePath": "assets/img/weapons/60px-Spear.png"
+  },
+  {
+    "name": "Spiky Shield",
+    "class": "Medieval, Blunt",
+    "damage": {
+      "white": [
+        "10(100%){Armor}"
+      ],
+      "blue": [
+        "15(125%){Armor}"
+      ],
+      "purple": [
+        "20(150%){Armor}"
+      ],
+      "red": [
+        "30(200%){Armor}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.16s"
+      ],
+      "blue": [
+        "1.16s"
+      ],
+      "purple": [
+        "1.16s"
+      ],
+      "red": [
+        "1.01s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3%)"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "20"
+      ],
+      "blue": [
+        "20"
+      ],
+      "purple": [
+        "20"
+      ],
+      "red": [
+        "20"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/2/22/Spiky_Shield.png/60px-Spiky_Shield.png",
+    "imagePath": "assets/img/weapons/60px-Spiky_Shield.png"
+  },
+  {
+    "name": "Spoon(DLC)",
+    "class": "Blunt",
+    "damage": {
+      "white": [
+        "10(+50%+15%){Melee_Damage}{Max_HP}"
+      ],
+      "blue": [
+        "15(+50%+20%){Melee_Damage}{Max_HP}"
+      ],
+      "purple": [
+        "20(+50%+25%){Melee_Damage}{Max_HP}"
+      ],
+      "red": [
+        "25(+50%+25%){Melee_Damage}{Max_HP}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.06s"
+      ],
+      "blue": [
+        "0.99s"
+      ],
+      "purple": [
+        "0.93s"
+      ],
+      "red": [
+        "0.86s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (0% chance)"
+      ],
+      "blue": [
+        "x2.25 (0% chance)"
+      ],
+      "purple": [
+        "x2.5 (0% chance)"
+      ],
+      "red": [
+        "x3 (0% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "165"
+      ],
+      "purple": [
+        "180"
+      ],
+      "red": [
+        "200"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Always crits when hitting burning targets",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b3/Spoon.png/60px-Spoon.png",
+    "imagePath": "assets/img/weapons/60px-Spoon.png"
+  },
+  {
+    "name": "Stick",
+    "class": "Primitive",
+    "damage": {
+      "white": [
+        "8(100%){Melee_Damage}"
+      ],
+      "blue": [
+        "9(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "10(100%){Melee_Damage}"
+      ],
+      "red": [
+        "12(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.29s"
+      ],
+      "blue": [
+        "1.22s"
+      ],
+      "purple": [
+        "1.15s"
+      ],
+      "red": [
+        "1.09s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.5 (3%)"
+      ],
+      "blue": [
+        "x1.5 (3%)"
+      ],
+      "purple": [
+        "x1.5 (3%)"
+      ],
+      "red": [
+        "x1.5 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "175"
+      ],
+      "blue": [
+        "175"
+      ],
+      "purple": [
+        "175"
+      ],
+      "red": [
+        "175"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Deals +4/+6/+8/+10 base damage for every additional stick you have",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/a/aa/Stick.png/60px-Stick.png",
+    "imagePath": "assets/img/weapons/60px-Stick.png"
+  },
+  {
+    "name": "Sword",
+    "class": "Blade, Medieval",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "25(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "40(100%){Melee_Damage}"
+      ],
+      "red": [
+        "60(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "1.28s"
+      ],
+      "purple": [
+        "1.13s"
+      ],
+      "red": [
+        "0.98s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "200"
+      ],
+      "purple": [
+        "200"
+      ],
+      "red": [
+        "200"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "5"
+      ],
+      "purple": [
+        "5"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Alternates between thrusting and sweeping attacks",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/8/89/Sword.png/60px-Sword.png",
+    "imagePath": "assets/img/weapons/60px-Sword.png"
+  },
+  {
+    "name": "Thief Dagger",
+    "class": "Precise",
+    "damage": {
+      "white": [
+        "6(50%){Melee_Damage}"
+      ],
+      "blue": [
+        "12(50%){Melee_Damage}"
+      ],
+      "purple": [
+        "18(50%){Melee_Damage}"
+      ],
+      "red": [
+        "30(50%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.01s"
+      ],
+      "blue": [
+        "0.93s"
+      ],
+      "purple": [
+        "0.86s"
+      ],
+      "red": [
+        "0.73s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (20%)"
+      ],
+      "blue": [
+        "x2 (25%)"
+      ],
+      "purple": [
+        "x2 (30%)"
+      ],
+      "red": [
+        "x2 (40%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "150"
+      ],
+      "blue": [
+        "150"
+      ],
+      "purple": [
+        "150"
+      ],
+      "red": [
+        "150"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "2"
+      ],
+      "blue": [
+        "2"
+      ],
+      "purple": [
+        "2"
+      ],
+      "red": [
+        "2"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "50%/56%/62%/80% to gain 1 material when killing an enemy with a critical hit with this weapon",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/4/4d/Thief_Dagger.png/60px-Thief_Dagger.png",
+    "imagePath": "assets/img/weapons/60px-Thief_Dagger.png"
+  },
+  {
+    "name": "Thunder Sword",
+    "class": "Blade, Elemental",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "30(125%125%){Melee_Damage}{Elemental_Damage}"
+      ],
+      "red": [
+        "60(150%150%){Melee_Damage}{Elemental_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "1.21s"
+      ],
+      "red": [
+        "1.06s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "200"
+      ],
+      "red": [
+        "200"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "5"
+      ],
+      "red": [
+        "5"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Hitting an enemy spawns 2/4 projectiles that slow and damage enemies by 100%",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/bb/Thunder_Sword.png/60px-Thunder_Sword.png",
+    "imagePath": "assets/img/weapons/60px-Thunder_Sword.png"
+  },
+  {
+    "name": "Torch",
+    "class": "Primitive, Elemental",
+    "damage": {
+      "white": [
+        "1(50%50%){Melee_Damage}{Elemental_Damage}"
+      ],
+      "blue": [
+        "1(65%65%){Melee_Damage}{Elemental_Damage}"
+      ],
+      "purple": [
+        "1(80%80%){Melee_Damage}{Elemental_Damage}"
+      ],
+      "red": [
+        "1(100%100%){Melee_Damage}{Elemental_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.1s"
+      ],
+      "blue": [
+        "1.04s"
+      ],
+      "purple": [
+        "0.95s"
+      ],
+      "red": [
+        "0.8s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x1.5 (0%)"
+      ],
+      "blue": [
+        "x1.5 (0%)"
+      ],
+      "purple": [
+        "x1.5 (0%)"
+      ],
+      "red": [
+        "x1.5 (0%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "175"
+      ],
+      "blue": [
+        "175"
+      ],
+      "purple": [
+        "175"
+      ],
+      "red": [
+        "175"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "20"
+      ],
+      "blue": [
+        "20"
+      ],
+      "purple": [
+        "20"
+      ],
+      "red": [
+        "20"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Deals 3x3/5x5/8x6/12x9(100%) burning damage.\nBurning spreads to 0/0/1/1 additional nearby enemies.",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/b/b2/Torch.png/60px-Torch.png",
+    "imagePath": "assets/img/weapons/60px-Torch.png"
+  },
+  {
+    "name": "Trident(DLC)",
+    "class": "Naval, Medieval",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "30(+100%+15%){Melee_Damage}{Curse}"
+      ],
+      "purple": [
+        "50(+100%+30%){Melee_Damage}{Curse}"
+      ],
+      "red": [
+        "80(+100%+50%){Melee_Damage}{Curse}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "1.58s"
+      ],
+      "purple": [
+        "1.5s"
+      ],
+      "red": [
+        "1.41s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "x2 (3% chance)"
+      ],
+      "purple": [
+        "x2 (3% chance)"
+      ],
+      "red": [
+        "x2 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "325"
+      ],
+      "purple": [
+        "325"
+      ],
+      "red": [
+        "325"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "+30%/+40%/+50% damage against targets above 80% health",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/9/9a/Trident.png/60px-Trident.png",
+    "imagePath": "assets/img/weapons/60px-Trident.png"
+  },
+  {
+    "name": "War Hammer(DLC)",
+    "class": "Blunt, Heavy",
+    "damage": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "100(+150%+100%){Melee_Damage}{Engineering_Stat}"
+      ],
+      "red": [
+        "180(+200%+150%){Melee_Damage}{Engineering_Stat}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "2.11s"
+      ],
+      "red": [
+        "1.95s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "x1.5 (3% chance)"
+      ],
+      "red": [
+        "x1.5 (3% chance)"
+      ]
+    },
+    "range": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "200"
+      ],
+      "red": [
+        "200"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "20"
+      ],
+      "red": [
+        "25"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "-"
+      ],
+      "blue": [
+        "-"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Resets the cooldown of all offensive turrets when attacking",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/5/5d/War_Hammer.png/60px-War_Hammer.png",
+    "imagePath": "assets/img/weapons/60px-War_Hammer.png"
+  },
+  {
+    "name": "Wrench",
+    "class": "Tool",
+    "damage": {
+      "white": [
+        "12(100%){Melee_Damage}"
+      ],
+      "blue": [
+        "16(100%){Melee_Damage}"
+      ],
+      "purple": [
+        "20(100%){Melee_Damage}"
+      ],
+      "red": [
+        "24(100%){Melee_Damage}"
+      ]
+    },
+    "attackSpeed": {
+      "white": [
+        "1.7s"
+      ],
+      "blue": [
+        "1.64s"
+      ],
+      "purple": [
+        "1.55s"
+      ],
+      "red": [
+        "1.49s"
+      ]
+    },
+    "critChance": {
+      "white": [
+        "x2 (3%)"
+      ],
+      "blue": [
+        "x2 (3%)"
+      ],
+      "purple": [
+        "x2 (3%)"
+      ],
+      "red": [
+        "x2 (3%)"
+      ]
+    },
+    "range": {
+      "white": [
+        "175"
+      ],
+      "blue": [
+        "175"
+      ],
+      "purple": [
+        "175"
+      ],
+      "red": [
+        "175"
+      ]
+    },
+    "knockback": {
+      "white": [
+        "20"
+      ],
+      "blue": [
+        "20"
+      ],
+      "purple": [
+        "20"
+      ],
+      "red": [
+        "20"
+      ]
+    },
+    "lifesteal": {
+      "white": [
+        "0"
+      ],
+      "blue": [
+        "0"
+      ],
+      "purple": [
+        "0"
+      ],
+      "red": [
+        "0"
+      ]
+    },
+    "specialEffect": "Spawns a Turret/Incendiary Turret/Laser Turret/Explosive Turret",
+    "imageUrl": "https://brotato.wiki.spellsandguns.com/images/thumb/7/7c/Wrench.png/60px-Wrench.png",
+    "imagePath": "assets/img/weapons/60px-Wrench.png"
+  }
+]

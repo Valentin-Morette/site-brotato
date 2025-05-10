@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/Layout.astro';
+import stats from '../../public/assets/jsons/stats.json';
+---
+
+<BaseLayout title="Stats">
+  <section class="section-header">
+    <h1>Stats</h1>
+    <p>All stats you can find in Brotato.</p>
+  </section>
+  <div class="bt-card-list">
+    {stats.map((stat) => (
+        <div class="bt-card">
+            <div class="flex justify-center stats-center">
+                <h1 class="text-center font-bold">{stat.name}</h2>
+                <img src={decodeURIComponent(`/${stat.imagePath}`)} width="40" alt={stat.name} />
+            </div>
+            <div class="bt-card-description">
+                {stat.effects
+                    ? stat.effects.split('\n').map(line => <p>{line}</p>)
+                    : <p>No description available.</p>}
+            </div>
+            <p>Limit : {stat.limit}</p>
+        </div>
+    ))}
+</BaseLayout>

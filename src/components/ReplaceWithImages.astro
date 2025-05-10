@@ -1,0 +1,26 @@
+---
+// src/components/ReplaceWithImages.astro
+
+const { text } = Astro.props;
+const texte = text[0];
+
+// Vérification que 'text' est bien une chaîne de caractères
+if (typeof texte !== 'string') {
+  throw new Error("Le texte doit être une chaîne de caractères");
+}
+
+// On découpe le texte à chaque occurrence de {xxx}
+const parts = texte.split(/{(.*?)}/g);
+
+// On retourne chaque partie en fonction de son type (texte ou image)
+---
+
+{parts.map((part, index) => {
+  // Si c'est une clé entre accolades, on crée une balise <img>
+  if (index % 2 === 1) {
+    const imagePath = `/assets/img/stats/60px-${part}.png`;
+    return <img class="imgStats" src={imagePath} alt={part} width="20"/>;
+  }
+  // Sinon, c'est du texte, on retourne simplement le texte
+  return part;
+})}
