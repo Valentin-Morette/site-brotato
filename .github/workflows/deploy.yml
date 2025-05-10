@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - master # Remplace 'main' par le nom de ta branche principale si nécessaire
+      - master # Branche de déploiement
 
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
           node-version: '18.17.1'
@@ -27,5 +27,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages # Branche où le site sera déployé
-          folder: dist # Dossier à déployer (le dossier de build Astro)
+          branch: gh-pages # Branche de déploiement
+          folder: dist # Dossier généré par le build
+          token: ${{ secrets.GH_TOKEN }} # Utilisation du secret pour l'authentification
