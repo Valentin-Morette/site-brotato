@@ -7,7 +7,6 @@ import '../styles/global.css';
   <head>
     <meta charset="UTF-8" />
     <title>{title}</title>
-    <link rel="stylesheet" href="site-brotato/styles/global.css" />
   </head>
   
   <body>
@@ -63,7 +62,7 @@ import '../styles/global.css';
    
     <slot /> <!-- C'est ici que le contenu de la page va s'injecter -->
 
-    <script type="module" src="/scripts/filterNames.js"></script> 
+    <script type="module" src="/site-brotato/scripts/filterNames.js"></script> 
     <script>
       // Script pour ouvrir et fermer le menu mobile
       document.getElementById("menu-icon")?.addEventListener("click", function() {

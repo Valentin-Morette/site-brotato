@@ -6,7 +6,7 @@
 /* ajout une font de public/assets/fonts/ */
 @font-face {
 	font-family: 'interphase';
-	src: url('/assets/fonts/interphase.ttf') format('truetype');
+	src: url('/site-brotato/assets/fonts/interphase.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
